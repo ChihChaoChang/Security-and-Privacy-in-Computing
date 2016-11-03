@@ -1,0 +1,1778 @@
+No.     Time        Source                Destination           Protocol Length src port dest port info
+     34 7.362945    143.138.4.147         172.27.37.232         HTTP     278    80       58285     HTTP/1.1 200 OK  (text/html)
+
+Frame 34: 278 bytes on wire (2224 bits), 278 bytes captured (2224 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 143.138.4.147 (143.138.4.147), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58285 (58285), Seq: 2792028130, Ack: 2951922520, Len: 234
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+     56 9.448388    143.138.4.147         172.27.37.232         HTTP     278    80       58284     HTTP/1.1 200 OK  (text/html)
+
+Frame 56: 278 bytes on wire (2224 bits), 278 bytes captured (2224 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 143.138.4.147 (143.138.4.147), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58284 (58284), Seq: 2548686710, Ack: 2910149230, Len: 234
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+     74 12.868751   143.138.4.147         172.27.37.232         HTTP     227    80       58285     HTTP/1.1 200 OK 
+
+Frame 74: 227 bytes on wire (1816 bits), 227 bytes captured (1816 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 143.138.4.147 (143.138.4.147), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58285 (58285), Seq: 2792028364, Ack: 2951924134, Len: 183
+Hypertext Transfer Protocol
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+     85 13.080796   33.247.152.113        172.27.37.232         HTTP     367    80       58286     HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 85: 367 bytes on wire (2936 bits), 367 bytes captured (2936 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 33.247.152.113 (33.247.152.113), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58286 (58286), Seq: 1328018069, Ack: 3068022619, Len: 311
+[2 Reassembled TCP Segments (550 bytes): #83(239), #85(311)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    168 19.279927   33.247.152.101        172.27.37.232         HTTP     1332   80       58288     HTTP/1.1 200 OK  (application/x-javascript)
+
+Frame 168: 1332 bytes on wire (10656 bits), 1332 bytes captured (10656 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 33.247.152.101 (33.247.152.101), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58288 (58288), Seq: 1516341414, Ack: 3064176453, Len: 1276
+[5 Reassembled TCP Segments (5942 bytes): #160(322), #162(1448), #164(1448), #166(1448), #168(1276)]
+Hypertext Transfer Protocol
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    179 19.441750   44.131.48.102         172.27.37.232         HTTP     1056   80       58289     HTTP/1.1 200 OK  (text/javascript)
+
+Frame 179: 1056 bytes on wire (8448 bits), 1056 bytes captured (8448 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 44.131.48.102 (44.131.48.102), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58289 (58289), Seq: 4259460640, Ack: 3068982241, Len: 1012
+Hypertext Transfer Protocol
+Line-based text data: text/javascript
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    188 19.721143   34.30.235.180         172.27.37.232         HTTP     590    80       58290     HTTP/1.0 200 OK  (application/x-javascript)
+
+Frame 188: 590 bytes on wire (4720 bits), 590 bytes captured (4720 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 34.30.235.180 (34.30.235.180), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58290 (58290), Seq: 2295260363, Ack: 3072230396, Len: 534
+Hypertext Transfer Protocol
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    200 19.767330   97.145.19.119         172.27.37.232         HTTP     1135   80       58291     HTTP/1.1 200 OK  (text/html)
+
+Frame 200: 1135 bytes on wire (9080 bits), 1135 bytes captured (9080 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 97.145.19.119 (97.145.19.119), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58291 (58291), Seq: 2876979453, Ack: 3079887914, Len: 1079
+[2 Reassembled TCP Segments (2455 bytes): #198(1376), #200(1079)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    259 19.828895   37.199.226.67         172.27.37.232         HTTP     1066   80       58292     HTTP/1.1 200 OK  (JPEG JFIF image)
+
+Frame 259: 1066 bytes on wire (8528 bits), 1066 bytes captured (8528 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 37.199.226.67 (37.199.226.67), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58292 (58292), Seq: 950915593, Ack: 3068423300, Len: 1010
+[26 Reassembled TCP Segments (37210 bytes): #210(1448), #212(1448), #214(1448), #216(1448), #218(1448), #220(1448), #222(1448), #224(1448), #226(1448), #228(1448), #230(1448), #232(1448), #234(1448), #236(1448), #238(1448), #240(1448), #242]
+Hypertext Transfer Protocol
+JPEG File Interchange Format
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    362 27.076513   143.138.66.97         172.27.37.232         HTTP     373    80       58294     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 362: 373 bytes on wire (2984 bits), 373 bytes captured (2984 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 143.138.66.97 (143.138.66.97), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58294 (58294), Seq: 3146666520, Ack: 3072998315, Len: 329
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    501 29.359494   37.120.175.85         251.215.76.253        HTTP     223    80       42949     HTTP/1.1 304 Not Modified 
+
+Frame 501: 223 bytes on wire (1784 bits), 223 bytes captured (1784 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 37.120.175.85 (37.120.175.85), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 42949 (42949), Seq: 841698462, Ack: 985592328, Len: 167
+Hypertext Transfer Protocol
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    536 29.648162   44.111.85.82          251.215.76.253        HTTP     81     80       53745     HTTP/1.1 200 OK  (text/html)
+
+Frame 536: 81 bytes on wire (648 bits), 81 bytes captured (648 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 44.111.85.82 (44.111.85.82), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 53745 (53745), Seq: 121093840, Ack: 1328571299, Len: 37
+[14 Reassembled TCP Segments (13437 bytes): #507(1340), #509(120), #511(1340), #513(120), #515(1340), #517(120), #522(1340), #524(1340), #526(1340), #528(980), #530(1340), #532(1340), #534(1340), #536(37)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    539 29.714165   44.131.51.48          205.232.201.195       HTTP     1281   80       38394     HTTP/1.1 200 OK  (text/html)
+
+Frame 539: 1281 bytes on wire (10248 bits), 1281 bytes captured (10248 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 44.131.51.48 (44.131.51.48), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 38394 (38394), Seq: 1942038208, Ack: 2837902106, Len: 1237
+[5 Reassembled TCP Segments (5558 bytes): #497(1430), #498(1374), #504(87), #538(1430), #539(1237)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    553 30.177082   248.78.109.66         205.232.201.195       HTTP     579    80       46856     HTTP/1.1 302 Found  (text/html)
+
+Frame 553: 579 bytes on wire (4632 bits), 579 bytes captured (4632 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46856 (46856), Seq: 1041403086, Ack: 3129361175, Len: 523
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    582 30.415607   248.78.109.66         205.232.201.195       HTTP     1488   80       46857     HTTP/1.1 200 OK  (text/html)
+
+Frame 582: 1488 bytes on wire (11904 bits), 1488 bytes captured (11904 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46857 (46857), Seq: 1230404382, Ack: 3122016644, Len: 1432
+[8 Reassembled TCP Segments (11290 bytes): #568(1448), #569(1448), #572(1410), #574(1448), #576(1448), #578(1208), #580(1448), #582(1432)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    642 32.397611   138.59.102.27         172.27.37.232         HTTP     1083   80       58295     HTTP/1.1 200 OK  (text/html)
+
+Frame 642: 1083 bytes on wire (8664 bits), 1083 bytes captured (8664 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100356131, Ack: 3083465111, Len: 1027
+[23 Reassembled TCP Segments (32883 bytes): #587(1448), #589(1448), #594(1448), #596(1448), #598(1448), #600(1448), #605(1448), #607(1448), #609(1448), #611(1448), #613(1448), #615(1448), #617(1448), #619(1448), #626(1448), #628(1448), #630]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    648 32.448623   138.59.102.27         172.27.37.232         HTTP     135    80       58296     HTTP/1.1 200 OK  (text/css)
+
+Frame 648: 135 bytes on wire (1080 bits), 135 bytes captured (1080 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58296 (58296), Seq: 2094566471, Ack: 3082759105, Len: 79
+[5 Reassembled TCP Segments (5871 bytes): #622(1448), #624(1448), #644(1448), #646(1448), #648(79)]
+Hypertext Transfer Protocol
+Line-based text data: text/css
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    654 32.754875   138.59.102.27         172.27.37.232         HTTP     212    80       58295     HTTP/1.1 200 OK  (text/css)
+
+Frame 654: 212 bytes on wire (1696 bits), 212 bytes captured (1696 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100358606, Ack: 3083465575, Len: 156
+[2 Reassembled TCP Segments (1604 bytes): #653(1448), #654(156)]
+Hypertext Transfer Protocol
+Line-based text data: text/css
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    658 33.061064   138.59.102.27         172.27.37.232         HTTP     688    80       58296     HTTP/1.1 200 OK  (image/x-icon)
+
+Frame 658: 688 bytes on wire (5504 bits), 688 bytes captured (5504 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58296 (58296), Seq: 2094566550, Ack: 3082759520, Len: 632
+Hypertext Transfer Protocol
+Media Type
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    661 33.066532   138.59.102.27         172.27.37.232         HTTP     1359   80       58295     HTTP/1.1 200 OK  (application/x-javascript)
+
+Frame 661: 1359 bytes on wire (10872 bits), 1359 bytes captured (10872 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100360210, Ack: 3083466019, Len: 1303
+[2 Reassembled TCP Segments (2751 bytes): #660(1448), #661(1303)]
+Hypertext Transfer Protocol
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    674 33.405483   138.59.102.27         172.27.37.232         HTTP     1399   80       58296     HTTP/1.1 200 OK  (PNG)
+
+Frame 674: 1399 bytes on wire (11192 bits), 1399 bytes captured (11192 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58296 (58296), Seq: 2094572974, Ack: 3082759985, Len: 1343
+[5 Reassembled TCP Segments (7135 bytes): #666(1448), #668(1448), #670(1448), #672(1448), #674(1343)]
+Hypertext Transfer Protocol
+Portable Network Graphics
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    686 33.412903   138.59.102.27         172.27.37.232         HTTP     945    80       58295     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 686: 945 bytes on wire (7560 bits), 945 bytes captured (7560 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100374545, Ack: 3083466499, Len: 889
+[10 Reassembled TCP Segments (13921 bytes): #677(1448), #678(1448), #679(1448), #680(1448), #681(1448), #682(1448), #683(1448), #684(1448), #685(1448), #686(889)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    695 33.701542   44.131.48.102         172.27.37.232         HTTP     70     80       58289     HTTP/1.1 200 OK  (text/html)
+
+Frame 695: 70 bytes on wire (560 bits), 70 bytes captured (560 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 44.131.48.102 (44.131.48.102), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58289 (58289), Seq: 4259464500, Ack: 3068983156, Len: 26
+[3 Reassembled TCP Segments (2874 bytes): #692(1418), #694(1430), #695(26)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    711 33.716131   138.59.102.27         172.27.37.232         HTTP     1417   80       58295     HTTP/1.1 200 OK  (JPEG JFIF image)
+
+Frame 711: 1417 bytes on wire (11336 bits), 1417 bytes captured (11336 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100381226, Ack: 3083466983, Len: 1361
+[5 Reassembled TCP Segments (7153 bytes): #707(1448), #708(1448), #709(1448), #710(1448), #711(1361)]
+Hypertext Transfer Protocol
+JPEG File Interchange Format
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    733 34.019249   138.59.102.27         172.27.37.232         HTTP     703    80       58295     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 733: 703 bytes on wire (5624 bits), 703 bytes captured (5624 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100386931, Ack: 3083467463, Len: 647
+[4 Reassembled TCP Segments (4991 bytes): #730(1448), #731(1448), #732(1448), #733(647)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    738 34.134402   44.131.48.102         172.27.37.232         HTTP     423    80       58289     HTTP/1.1 200 OK  (text/html)
+
+Frame 738: 423 bytes on wire (3384 bits), 423 bytes captured (3384 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 44.131.48.102 (44.131.48.102), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58289 (58289), Seq: 4259465956, Ack: 3068984092, Len: 379
+[2 Reassembled TCP Segments (1809 bytes): #737(1430), #738(379)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    743 34.306587   138.59.102.27         172.27.37.232         HTTP     828    80       58296     HTTP/1.1 200 OK  (application/x-shockwave-flash)
+
+Frame 743: 828 bytes on wire (6624 bits), 828 bytes captured (6624 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58296 (58296), Seq: 2094597485, Ack: 3082760603, Len: 772
+[17 Reassembled TCP Segments (23940 bytes): #698(1448), #699(1448), #701(1448), #702(1448), #704(1448), #705(1448), #718(1448), #719(1448), #721(1448), #722(1448), #724(1448), #725(1448), #726(1448), #727(1448), #728(1448), #742(1448), #743]
+Hypertext Transfer Protocol
+Media Type
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    761 34.318471   138.59.102.27         172.27.37.232         HTTP     749    80       58295     HTTP/1.1 200 OK  (JPEG JFIF image)
+
+Frame 761: 749 bytes on wire (5992 bits), 749 bytes captured (5992 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100403506, Ack: 3083467946, Len: 693
+[12 Reassembled TCP Segments (16621 bytes): #746(1448), #747(1448), #749(1448), #750(1448), #752(1448), #753(1448), #754(1448), #755(1448), #757(1448), #758(1448), #760(1448), #761(693)]
+Hypertext Transfer Protocol
+JPEG File Interchange Format
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    804 34.922688   138.59.102.27         172.27.37.232         HTTP     530    80       58295     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 804: 530 bytes on wire (4240 bits), 530 bytes captured (4240 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100424471, Ack: 3083468427, Len: 474
+[15 Reassembled TCP Segments (20746 bytes): #780(1448), #781(1448), #783(1448), #784(1448), #786(1448), #787(1448), #788(1448), #789(1448), #790(1448), #791(1448), #792(1448), #800(1448), #801(1448), #803(1448), #804(474)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    808 34.942403   154.87.109.40         172.27.37.232         HTTP     397    80       58297     HTTP/1.0 200 OK  (application/x-javascript)
+
+Frame 808: 397 bytes on wire (3176 bits), 397 bytes captured (3176 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 154.87.109.40 (154.87.109.40), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58297 (58297), Seq: 1626970480, Ack: 3094618349, Len: 341
+[2 Reassembled TCP Segments (1789 bytes): #807(1448), #808(341)]
+Hypertext Transfer Protocol
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    814 35.116257   44.131.48.102         172.27.37.232         HTTP     1430   80       58289     HTTP/1.1 200 OK  (PNG)
+
+Frame 814: 1430 bytes on wire (11440 bits), 1430 bytes captured (11440 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 44.131.48.102 (44.131.48.102), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58289 (58289), Seq: 4259466335, Ack: 3068984964, Len: 1386
+Hypertext Transfer Protocol
+Portable Network Graphics
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    824 35.222866   138.59.102.27         172.27.37.232         HTTP     318    80       58295     HTTP/1.1 200 OK  (application/x-shockwave-flash)
+
+Frame 824: 318 bytes on wire (2544 bits), 318 bytes captured (2544 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100433633, Ack: 3083469003, Len: 262
+[7 Reassembled TCP Segments (8950 bytes): #816(1448), #817(1448), #819(1448), #820(1448), #822(1448), #823(1448), #824(262)]
+Hypertext Transfer Protocol
+Media Type
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    830 35.466552   138.59.102.27         172.27.37.232         HTTP     1504   80       58296     [TCP Retransmission] HTTP/1.1 200 OK  (JPEG JFIF image)
+
+Frame 830: 1504 bytes on wire (12032 bits), 1504 bytes captured (12032 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58296 (58296), Seq: 2094609841, Ack: 3082761076, Len: 1448
+[10 Reassembled TCP Segments (13641 bytes): #768(1448), #769(1448), #771(1448), #772(1448), #774(1448), #775(1448), #777(1448), #778(1448), #830(1448), #798(609)]
+Hypertext Transfer Protocol
+JPEG File Interchange Format
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    846 35.523207   138.59.102.27         172.27.37.232         HTTP     974    80       58295     HTTP/1.1 200 OK  (application/x-shockwave-flash)
+
+Frame 846: 974 bytes on wire (7792 bits), 974 bytes captured (7792 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100451271, Ack: 3083469580, Len: 918
+[13 Reassembled TCP Segments (18294 bytes): #833(1448), #834(1448), #836(1448), #837(1448), #838(1448), #839(1448), #840(1448), #841(1448), #842(1448), #843(1448), #844(1448), #845(1448), #846(918)]
+Hypertext Transfer Protocol
+Media Type
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    886 35.689981   44.131.48.102         172.27.37.232         HTTP     755    80       58289     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 886: 755 bytes on wire (6040 bits), 755 bytes captured (6040 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 44.131.48.102 (44.131.48.102), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58289 (58289), Seq: 4259493413, Ack: 3068986096, Len: 711
+[19 Reassembled TCP Segments (26403 bytes): #850(1430), #852(1430), #854(1430), #856(1382), #858(1430), #860(1430), #862(1430), #864(1430), #866(1430), #868(1430), #870(1430), #872(1430), #874(1430), #876(1430), #878(1430), #880(1430), #882]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    901 35.822043   138.59.102.27         172.27.37.232         HTTP     776    80       58295     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 901: 776 bytes on wire (6208 bits), 776 bytes captured (6208 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100460877, Ack: 3083470055, Len: 720
+[7 Reassembled TCP Segments (9408 bytes): #892(1448), #893(1448), #895(1448), #896(1448), #898(1448), #899(1448), #901(720)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    918 36.124734   138.59.102.27         172.27.37.232         HTTP     1162   80       58295     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 918: 1162 bytes on wire (9296 bits), 1162 bytes captured (9296 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100468837, Ack: 3083470530, Len: 1106
+[6 Reassembled TCP Segments (8346 bytes): #912(1448), #913(1448), #915(1448), #916(1448), #917(1448), #918(1106)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    924 36.357424   138.59.102.27         172.27.37.232         HTTP     1011   80       58296     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 924: 1011 bytes on wire (8088 bits), 1011 bytes captured (8088 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58296 (58296), Seq: 2094619138, Ack: 3082761556, Len: 955
+[6 Reassembled TCP Segments (8195 bytes): #889(1448), #890(1448), #907(1448), #908(1448), #910(1448), #924(955)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    935 36.424861   138.59.102.27         172.27.37.232         HTTP     322    80       58295     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 935: 322 bytes on wire (2576 bits), 322 bytes captured (2576 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100478631, Ack: 3083471006, Len: 266
+[7 Reassembled TCP Segments (8954 bytes): #927(1448), #928(1448), #930(1448), #931(1448), #933(1448), #934(1448), #935(266)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    940 36.464088   154.87.109.177        172.27.37.232         HTTP     857    80       58298     HTTP/1.1 200 OK  (application/x-javascript)
+
+Frame 940: 857 bytes on wire (6856 bits), 857 bytes captured (6856 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 154.87.109.177 (154.87.109.177), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58298 (58298), Seq: 1593413340, Ack: 3096169733, Len: 801
+[2 Reassembled TCP Segments (1061 bytes): #938(260), #940(801)]
+Hypertext Transfer Protocol
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    955 36.726844   138.59.102.27         172.27.37.232         HTTP     629    80       58295     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 955: 629 bytes on wire (5032 bits), 629 bytes captured (5032 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100486137, Ack: 3083471484, Len: 573
+[6 Reassembled TCP Segments (7813 bytes): #948(1448), #949(1448), #951(1448), #952(1448), #954(1448), #955(573)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    975 37.029578   138.59.102.27         172.27.37.232         HTTP     919    80       58295     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 975: 919 bytes on wire (7352 bits), 919 bytes captured (7352 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100493950, Ack: 3083471958, Len: 863
+[6 Reassembled TCP Segments (8103 bytes): #968(1448), #969(1448), #971(1448), #972(1448), #974(1448), #975(863)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    979 37.041816   93.119.134.44         172.27.37.232         HTTP     602    80       58299     HTTP/1.1 302 Found  (text/plain)
+
+Frame 979: 602 bytes on wire (4816 bits), 602 bytes captured (4816 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 93.119.134.44 (93.119.134.44), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58299 (58299), Seq: 3534438445, Ack: 3082722060, Len: 546
+Hypertext Transfer Protocol
+Line-based text data: text/plain
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+    995 37.319285   138.59.102.27         172.27.37.232         HTTP     431    80       58295     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 995: 431 bytes on wire (3448 bits), 431 bytes captured (3448 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100504949, Ack: 3083472433, Len: 375
+[8 Reassembled TCP Segments (10511 bytes): #988(1448), #989(1448), #990(1448), #991(1448), #992(1448), #993(1448), #994(1448), #995(375)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1005 37.592816   143.138.66.97         172.27.37.232         HTTP     373    80       58294     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1005: 373 bytes on wire (2984 bits), 373 bytes captured (2984 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 143.138.66.97 (143.138.66.97), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58294 (58294), Seq: 3146666849, Ack: 3072999253, Len: 329
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1015 37.629071   138.59.102.27         172.27.37.232         HTTP     1432   80       58295     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1015: 1432 bytes on wire (11456 bits), 1432 bytes captured (11456 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100514012, Ack: 3083472910, Len: 1376
+[7 Reassembled TCP Segments (10064 bytes): #1007(1448), #1008(1448), #1010(1448), #1011(1448), #1013(1448), #1014(1448), #1015(1376)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1021 37.797845   138.59.102.27         172.27.37.232         HTTP     1504   80       58296     [TCP Retransmission] HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1021: 1504 bytes on wire (12032 bits), 1504 bytes captured (12032 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58296 (58296), Seq: 2094627333, Ack: 3082762032, Len: 1448
+[7 Reassembled TCP Segments (8854 bytes): #943(1448), #944(1448), #946(1448), #1000(1448), #960(1448), #1021(1448), #985(166)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1036 37.932058   138.59.102.27         172.27.37.232         HTTP     571    80       58295     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1036: 571 bytes on wire (4568 bits), 571 bytes captured (4568 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100524076, Ack: 3083473385, Len: 515
+[7 Reassembled TCP Segments (9203 bytes): #1030(1448), #1031(1448), #1032(1448), #1033(1448), #1034(1448), #1035(1448), #1036(515)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1042 38.057515   155.231.237.70        172.27.37.232         HTTP     1185   80       58300     HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 1042: 1185 bytes on wire (9480 bits), 1185 bytes captured (9480 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.231.237.70 (155.231.237.70), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58300 (58300), Seq: 442621494, Ack: 3095005447, Len: 1129
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1060 38.246980   138.59.102.27         172.27.37.232         HTTP     560    80       58295     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1060: 560 bytes on wire (4480 bits), 560 bytes captured (4480 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100533279, Ack: 3083473868, Len: 504
+[7 Reassembled TCP Segments (9192 bytes): #1052(1448), #1053(1448), #1055(1448), #1056(1448), #1058(1448), #1059(1448), #1060(504)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1084 38.547734   138.59.102.27         172.27.37.232         HTTP     1405   80       58295     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1084: 1405 bytes on wire (11240 bits), 1405 bytes captured (11240 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100541023, Ack: 3083474351, Len: 1349
+[6 Reassembled TCP Segments (8589 bytes): #1079(1448), #1080(1448), #1081(1448), #1082(1448), #1083(1448), #1084(1349)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1103 38.737230   138.59.102.27         172.27.37.232         HTTP     1323   80       58296     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1103: 1323 bytes on wire (10584 bits), 1323 bytes captured (10584 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58296 (58296), Seq: 2094636187, Ack: 3082762519, Len: 1267
+[6 Reassembled TCP Segments (8507 bytes): #1046(1448), #1067(1448), #1069(1448), #1099(1448), #1101(1448), #1103(1267)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1108 38.793310   155.231.237.70        172.27.37.232         HTTP     1147   80       58301     HTTP/1.1 200 OK  (application/x-shockwave-flash)
+
+Frame 1108: 1147 bytes on wire (9176 bits), 1147 bytes captured (9176 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.231.237.70 (155.231.237.70), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58301 (58301), Seq: 440960337, Ack: 3093177829, Len: 1091
+[11 Reassembled TCP Segments (15571 bytes): #1073(1448), #1075(1448), #1077(1448), #1087(1448), #1089(1448), #1091(1448), #1093(1448), #1095(1448), #1097(1448), #1106(1448), #1108(1091)]
+Hypertext Transfer Protocol
+Media Type
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1119 38.855713   138.59.102.27         172.27.37.232         HTTP     354    80       58295     HTTP/1.1 200 OK  (JPEG JFIF image)
+
+Frame 1119: 354 bytes on wire (2832 bits), 354 bytes captured (2832 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100549612, Ack: 3083474832, Len: 298
+[6 Reassembled TCP Segments (7538 bytes): #1112(1448), #1113(1448), #1115(1448), #1116(1448), #1118(1448), #1119(298)]
+Hypertext Transfer Protocol
+JPEG File Interchange Format
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1129 39.153033   138.59.102.27         172.27.37.232         HTTP     854    80       58295     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1129: 854 bytes on wire (6832 bits), 854 bytes captured (6832 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100549910, Ack: 3083475312, Len: 798
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1138 39.455166   138.59.102.27         172.27.37.232         HTTP     1369   80       58295     HTTP/1.1 200 OK  (JPEG JFIF image)
+
+Frame 1138: 1369 bytes on wire (10952 bits), 1369 bytes captured (10952 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100552156, Ack: 3083475791, Len: 1313
+[2 Reassembled TCP Segments (2761 bytes): #1137(1448), #1138(1313)]
+Hypertext Transfer Protocol
+JPEG File Interchange Format
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1148 39.756261   138.59.102.27         172.27.37.232         HTTP     720    80       58295     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1148: 720 bytes on wire (5760 bits), 720 bytes captured (5760 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 2100553469, Ack: 3083476266, Len: 664
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1152 39.955534   138.59.102.27         172.27.37.232         HTTP     581    80       58296     HTTP/1.1 200 OK  (JPEG JFIF image)
+
+Frame 1152: 581 bytes on wire (4648 bits), 581 bytes captured (4648 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58296 (58296), Seq: 2094651934, Ack: 3082762993, Len: 525
+[11 Reassembled TCP Segments (15005 bytes): #1124(1448), #1125(1448), #1126(1448), #1131(1448), #1132(1448), #1134(1448), #1142(1448), #1144(1448), #1146(1448), #1151(1448), #1152(525)]
+Hypertext Transfer Protocol
+JPEG File Interchange Format
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1170 41.994732   44.131.51.48          205.232.201.195       HTTP     1413   80       38393     HTTP/1.1 200 OK  (text/html)
+
+Frame 1170: 1413 bytes on wire (11304 bits), 1413 bytes captured (11304 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 44.131.51.48 (44.131.51.48), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 38393 (38393), Seq: 2141387547, Ack: 2840379764, Len: 1369
+[5 Reassembled TCP Segments (5688 bytes): #1161(1430), #1162(1374), #1165(85), #1169(1430), #1170(1369)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1188 42.626056   35.183.215.204        172.27.37.232         HTTP     474    80       58302     HTTP/1.1 302 Moved Temporarily 
+
+Frame 1188: 474 bytes on wire (3792 bits), 474 bytes captured (3792 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 35.183.215.204 (35.183.215.204), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58302 (58302), Seq: 3292195804, Ack: 3094802284, Len: 418
+Hypertext Transfer Protocol
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1214 42.661556   159.70.229.173        172.27.37.232         HTTP     1496   80       58303     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1214: 1496 bytes on wire (11968 bits), 1496 bytes captured (11968 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.70.229.173 (159.70.229.173), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58303 (58303), Seq: 1680127170, Ack: 3091476867, Len: 1440
+[8 Reassembled TCP Segments (11576 bytes): #1200(1448), #1202(1448), #1204(1448), #1206(1448), #1208(1448), #1210(1448), #1212(1448), #1214(1440)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1267 45.367768   248.78.109.66         205.232.201.195       HTTP     1487   80       46858     HTTP/1.1 200 OK  (text/html)
+
+Frame 1267: 1487 bytes on wire (11896 bits), 1487 bytes captured (11896 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46858 (46858), Seq: 2125745746, Ack: 3146650975, Len: 1431
+[12 Reassembled TCP Segments (14422 bytes): #1241(1448), #1242(407), #1246(1448), #1248(1448), #1249(1448), #1251(784), #1253(1448), #1254(456), #1260(1448), #1262(1448), #1264(1208), #1267(1431)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1271 45.396120   248.78.109.66         205.232.201.195       HTTP     1043   80       46859     HTTP/1.1 200 OK  (text/css)
+
+Frame 1271: 1043 bytes on wire (8344 bits), 1043 bytes captured (8344 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46859 (46859), Seq: 1208710828, Ack: 3142301018, Len: 987
+Hypertext Transfer Protocol
+Line-based text data: text/css
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1304 45.729773   248.78.109.66         205.232.201.195       HTTP     144    80       46860     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1304: 144 bytes on wire (1152 bits), 144 bytes captured (1152 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46860 (46860), Seq: 2971584653, Ack: 3151914393, Len: 88
+[10 Reassembled TCP Segments (13120 bytes): #1282(1448), #1283(1448), #1286(1448), #1291(1448), #1292(1448), #1295(1448), #1296(1448), #1298(1448), #1301(1448), #1304(88)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1309 45.731313   248.78.109.66         205.232.201.195       HTTP     534    80       46861     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1309: 534 bytes on wire (4272 bits), 534 bytes captured (4272 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46861 (46861), Seq: 1626064891, Ack: 3140147942, Len: 478
+[3 Reassembled TCP Segments (3374 bytes): #1306(1448), #1307(1448), #1309(478)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1324 45.879114   248.78.109.66         205.232.201.195       HTTP     1066   80       46863     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1324: 1066 bytes on wire (8528 bits), 1066 bytes captured (8528 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46863 (46863), Seq: 1535344290, Ack: 3137249833, Len: 1010
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1337 45.918172   248.78.109.66         205.232.201.195       HTTP     1055   80       46864     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1337: 1055 bytes on wire (8440 bits), 1055 bytes captured (8440 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46864 (46864), Seq: 4084633821, Ack: 3142784002, Len: 999
+[3 Reassembled TCP Segments (3895 bytes): #1334(1448), #1336(1448), #1337(999)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1351 45.964200   248.78.109.66         205.232.201.195       HTTP     89     80       46865     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1351: 89 bytes on wire (712 bits), 89 bytes captured (712 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46865 (46865), Seq: 3039998567, Ack: 3143950300, Len: 33
+[3 Reassembled TCP Segments (2929 bytes): #1348(1448), #1350(1448), #1351(33)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1365 46.052065   248.78.109.66         205.232.201.195       HTTP     207    80       46866     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1365: 207 bytes on wire (1656 bits), 207 bytes captured (1656 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46866 (46866), Seq: 477712087, Ack: 3149694990, Len: 151
+[3 Reassembled TCP Segments (3047 bytes): #1362(1448), #1363(1448), #1365(151)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1379 46.076597   248.78.109.66         205.232.201.195       HTTP     778    80       46867     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1379: 778 bytes on wire (6224 bits), 778 bytes captured (6224 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46867 (46867), Seq: 3603607526, Ack: 3147350035, Len: 722
+[2 Reassembled TCP Segments (2170 bytes): #1378(1448), #1379(722)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1391 46.117041   248.78.109.66         205.232.201.195       HTTP     448    80       46868     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1391: 448 bytes on wire (3584 bits), 448 bytes captured (3584 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46868 (46868), Seq: 288717232, Ack: 3137473617, Len: 392
+[2 Reassembled TCP Segments (1840 bytes): #1390(1448), #1391(392)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1406 46.226525   248.78.109.66         205.232.201.195       HTTP     173    80       46869     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1406: 173 bytes on wire (1384 bits), 173 bytes captured (1384 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46869 (46869), Seq: 1304434651, Ack: 3152255163, Len: 117
+[3 Reassembled TCP Segments (3013 bytes): #1403(1448), #1405(1448), #1406(117)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1419 46.263393   248.78.109.66         205.232.201.195       HTTP     1091   80       46870     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1419: 1091 bytes on wire (8728 bits), 1091 bytes captured (8728 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46870 (46870), Seq: 2489263611, Ack: 3146775821, Len: 1035
+[2 Reassembled TCP Segments (2483 bytes): #1417(1448), #1419(1035)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1431 46.302145   248.78.109.66         205.232.201.195       HTTP     487    80       46871     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1431: 487 bytes on wire (3896 bits), 487 bytes captured (3896 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46871 (46871), Seq: 2796205961, Ack: 3152737652, Len: 431
+[2 Reassembled TCP Segments (1879 bytes): #1429(1448), #1431(431)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1442 46.395472   248.78.109.66         205.232.201.195       HTTP     796    80       46872     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1442: 796 bytes on wire (6368 bits), 796 bytes captured (6368 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46872 (46872), Seq: 3013856359, Ack: 3145417622, Len: 740
+[2 Reassembled TCP Segments (2188 bytes): #1441(1448), #1442(740)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1453 46.442280   248.78.109.66         205.232.201.195       HTTP     414    80       46873     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1453: 414 bytes on wire (3312 bits), 414 bytes captured (3312 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46873 (46873), Seq: 2575560934, Ack: 3137258346, Len: 358
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1463 46.479900   248.78.109.66         205.232.201.195       HTTP     553    80       46874     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1463: 553 bytes on wire (4424 bits), 553 bytes captured (4424 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46874 (46874), Seq: 2113139124, Ack: 3145594377, Len: 497
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1475 46.683755   248.78.109.66         205.232.201.195       HTTP     1458   80       46875     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1475: 1458 bytes on wire (11664 bits), 1458 bytes captured (11664 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46875 (46875), Seq: 4142247167, Ack: 3149152797, Len: 1402
+[2 Reassembled TCP Segments (2850 bytes): #1473(1448), #1475(1402)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1491 46.724858   248.78.109.66         205.232.201.195       HTTP     143    80       46876     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1491: 143 bytes on wire (1144 bits), 143 bytes captured (1144 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46876 (46876), Seq: 2700052495, Ack: 3153926536, Len: 87
+[2 Reassembled TCP Segments (1535 bytes): #1490(1448), #1491(87)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1504 46.765728   248.78.109.66         205.232.201.195       HTTP     217    80       46877     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1504: 217 bytes on wire (1736 bits), 217 bytes captured (1736 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46877 (46877), Seq: 657493089, Ack: 3148617975, Len: 161
+[2 Reassembled TCP Segments (1609 bytes): #1503(1448), #1504(161)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1521 46.847426   248.78.109.66         205.232.201.195       HTTP     241    80       46878     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1521: 241 bytes on wire (1928 bits), 241 bytes captured (1928 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46878 (46878), Seq: 3305969511, Ack: 3141229753, Len: 185
+[3 Reassembled TCP Segments (3081 bytes): #1518(1448), #1520(1448), #1521(185)]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1532 46.895386   248.78.109.66         205.232.201.195       HTTP     454    80       46879     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1532: 454 bytes on wire (3632 bits), 454 bytes captured (3632 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46879 (46879), Seq: 4270370642, Ack: 3143557170, Len: 398
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1565 48.803441   248.78.109.66         205.232.201.195       HTTP     388    80       46862     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1565: 388 bytes on wire (3104 bits), 388 bytes captured (3104 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46862 (46862), Seq: 261300003, Ack: 3152175118, Len: 332
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1581 48.950790   248.78.109.66         205.232.201.195       HTTP     1371   80       46880     HTTP/1.1 200 OK  (text/plain)
+
+Frame 1581: 1371 bytes on wire (10968 bits), 1371 bytes captured (10968 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46880 (46880), Seq: 1044207179, Ack: 3155042997, Len: 1315
+Hypertext Transfer Protocol
+Line-based text data: text/plain
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1806 79.201570   44.131.51.48          205.232.201.195       HTTP     1341   80       38394     HTTP/1.1 200 OK  (text/html)
+
+Frame 1806: 1341 bytes on wire (10728 bits), 1341 bytes captured (10728 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 44.131.51.48 (44.131.51.48), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 38394 (38394), Seq: 1942043757, Ack: 2837902650, Len: 1297
+[5 Reassembled TCP Segments (5609 bytes): #1798(1430), #1799(1430), #1800(22), #1805(1430), #1806(1297)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1842 80.409529   251.235.172.148       205.232.201.195       HTTP     279    80       48580     HTTP/1.1 200 OK  (text/html)
+
+Frame 1842: 279 bytes on wire (2232 bits), 279 bytes captured (2232 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 251.235.172.148 (251.235.172.148), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 48580 (48580), Seq: 2322145493, Ack: 3182684711, Len: 223
+[11 Reassembled TCP Segments (14703 bytes): #1822(1448), #1823(1448), #1825(1448), #1829(1448), #1830(1448), #1833(1448), #1834(1448), #1835(1448), #1836(1448), #1841(1448), #1842(223)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   1857 81.427550   251.235.172.148       205.232.201.195       HTTP     758    80       48580     HTTP/1.1 404 Not Found  (text/html)
+
+Frame 1857: 758 bytes on wire (6064 bits), 758 bytes captured (6064 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 251.235.172.148 (251.235.172.148), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 48580 (48580), Seq: 2322145716, Ack: 3182685060, Len: 702
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   2504 107.144653  205.232.201.218       33.92.125.147         HTTP     413    80       62060     HTTP/1.1 200 OK  (text/plain)
+
+Frame 2504: 413 bytes on wire (3304 bits), 413 bytes captured (3304 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 205.232.201.218 (205.232.201.218), Dst: 33.92.125.147 (33.92.125.147)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 62060 (62060), Seq: 1951651201, Ack: 2393758027, Len: 357
+Hypertext Transfer Protocol
+Line-based text data: text/plain
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   2536 107.267228  205.232.201.218       33.92.125.147         HTTP     625    80       62060     HTTP/1.1 404 Not Found  (text/html)
+
+Frame 2536: 625 bytes on wire (5000 bits), 625 bytes captured (5000 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 205.232.201.218 (205.232.201.218), Dst: 33.92.125.147 (33.92.125.147)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 62060 (62060), Seq: 1951651558, Ack: 2393758307, Len: 569
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3460 200.240287  44.131.51.161         205.232.201.195       HTTP     785    80       53905     HTTP/1.1 200 OK  (text/html)
+
+Frame 3460: 785 bytes on wire (6280 bits), 785 bytes captured (6280 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 44.131.51.161 (44.131.51.161), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 53905 (53905), Seq: 690532072, Ack: 3306774775, Len: 741
+[8 Reassembled TCP Segments (9794 bytes): #3450(1430), #3451(1430), #3452(473), #3456(1430), #3457(1430), #3458(1430), #3459(1430), #3460(741)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3552 204.189664  155.111.186.252       251.215.76.253        HTTP     971    80       60376     HTTP/1.1 200 OK  (text/css)
+
+Frame 3552: 971 bytes on wire (7768 bits), 971 bytes captured (7768 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60376 (60376), Seq: 312160475, Ack: 474966788, Len: 915
+Hypertext Transfer Protocol
+Line-based text data: text/css
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3565 204.197554  155.111.186.252       251.215.76.253        HTTP     1234   80       60377     HTTP/1.1 200 OK  (application/x-javascript)
+
+Frame 3565: 1234 bytes on wire (9872 bits), 1234 bytes captured (9872 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60377 (60377), Seq: 310672705, Ack: 461521892, Len: 1178
+Hypertext Transfer Protocol
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3574 204.202544  155.111.186.252       251.215.76.253        HTTP     1071   80       60377     HTTP/1.1 200 OK  (application/x-javascript)
+
+Frame 3574: 1071 bytes on wire (8568 bits), 1071 bytes captured (8568 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60377 (60377), Seq: 310673883, Ack: 461522544, Len: 1015
+Hypertext Transfer Protocol
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3582 204.310029  155.111.186.252       251.215.76.253        HTTP     1245   80       60377     HTTP/1.1 200 OK  (application/x-javascript)
+
+Frame 3582: 1245 bytes on wire (9960 bits), 1245 bytes captured (9960 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60377 (60377), Seq: 310674898, Ack: 461523183, Len: 1189
+Hypertext Transfer Protocol
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3586 204.311609  155.111.186.252       251.215.76.253        HTTP     682    80       60375     HTTP/1.1 200 OK  (application/x-javascript)
+
+Frame 3586: 682 bytes on wire (5456 bits), 682 bytes captured (5456 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60375 (60375), Seq: 301817882, Ack: 475690029, Len: 626
+Hypertext Transfer Protocol
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3615 205.657302  136.93.4.213          251.215.76.253        HTTP     448    80       39508     HTTP/1.1 200 OK  (application/x-javascript)
+
+Frame 3615: 448 bytes on wire (3584 bits), 448 bytes captured (3584 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 136.93.4.213 (136.93.4.213), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 39508 (39508), Seq: 1599833871, Ack: 464778425, Len: 392
+Hypertext Transfer Protocol
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3631 206.344848  44.131.51.48          205.232.201.195       HTTP     188    80       38393     HTTP/1.1 200 OK  (text/html)
+
+Frame 3631: 188 bytes on wire (1504 bits), 188 bytes captured (1504 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 44.131.51.48 (44.131.51.48), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 38393 (38393), Seq: 2141394662, Ack: 2840380311, Len: 144
+[6 Reassembled TCP Segments (5890 bytes): #3620(1430), #3621(1430), #3622(26), #3628(1430), #3630(1430), #3631(144)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3653 207.009028  93.199.112.45         205.232.201.195       HTTP     1315   80       33297     HTTP/1.1 200 OK  (text/html)
+
+Frame 3653: 1315 bytes on wire (10520 bits), 1315 bytes captured (10520 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 93.199.112.45 (93.199.112.45), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 33297 (33297), Seq: 1987906513, Ack: 3310673849, Len: 1259
+[6 Reassembled TCP Segments (7363 bytes): #3645(312), #3647(1448), #3649(1448), #3650(1448), #3652(1448), #3653(1259)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3710 207.923861  155.111.186.252       251.215.76.253        HTTP     815    80       60385     HTTP/1.1 200 OK  (text/css)
+
+Frame 3710: 815 bytes on wire (6520 bits), 815 bytes captured (6520 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60385 (60385), Seq: 315922112, Ack: 536344198, Len: 759
+Hypertext Transfer Protocol
+Line-based text data: text/css
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3712 207.924649  155.111.186.252       251.215.76.253        HTTP     915    80       60388     HTTP/1.1 200 OK  (application/x-javascript)
+
+Frame 3712: 915 bytes on wire (7320 bits), 915 bytes captured (7320 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60388 (60388), Seq: 304810128, Ack: 532165122, Len: 859
+Hypertext Transfer Protocol
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3713 207.924662  155.111.186.252       251.215.76.253        HTTP     978    80       60387     HTTP/1.1 200 OK  (application/x-javascript)
+
+Frame 3713: 978 bytes on wire (7824 bits), 978 bytes captured (7824 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60387 (60387), Seq: 304483924, Ack: 535468421, Len: 922
+Hypertext Transfer Protocol
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3722 207.964408  155.111.186.252       251.215.76.253        HTTP     1087   80       60386     HTTP/1.1 200 OK  (application/x-javascript)
+
+Frame 3722: 1087 bytes on wire (8696 bits), 1087 bytes captured (8696 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60386 (60386), Seq: 304541367, Ack: 525845119, Len: 1031
+Hypertext Transfer Protocol
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3723 207.964427  155.111.186.252       251.215.76.253        HTTP     493    80       60387     HTTP/1.1 200 OK  (application/x-javascript)
+
+Frame 3723: 493 bytes on wire (3944 bits), 493 bytes captured (3944 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60387 (60387), Seq: 304484846, Ack: 535468875, Len: 437
+Hypertext Transfer Protocol
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3726 207.965473  155.111.186.252       251.215.76.253        HTTP     570    80       60385     HTTP/1.1 200 OK  (application/x-javascript)
+
+Frame 3726: 570 bytes on wire (4560 bits), 570 bytes captured (4560 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60385 (60385), Seq: 315922871, Ack: 536344676, Len: 514
+Hypertext Transfer Protocol
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3744 208.001437  155.111.186.252       251.215.76.253        HTTP     1128   80       60384     HTTP/1.1 200 OK  (application/x-javascript)
+
+Frame 3744: 1128 bytes on wire (9024 bits), 1128 bytes captured (9024 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60384 (60384), Seq: 304161706, Ack: 532627006, Len: 1072
+Hypertext Transfer Protocol
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3776 208.074388  155.111.186.252       251.215.76.253        HTTP     575    80       60387     HTTP/1.1 200 OK  (application/x-javascript)
+
+Frame 3776: 575 bytes on wire (4600 bits), 575 bytes captured (4600 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60387 (60387), Seq: 304485283, Ack: 535469331, Len: 519
+Hypertext Transfer Protocol
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3777 208.074404  155.111.186.252       251.215.76.253        HTTP     1214   80       60388     HTTP/1.1 200 OK  (application/x-javascript)
+
+Frame 3777: 1214 bytes on wire (9712 bits), 1214 bytes captured (9712 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60388 (60388), Seq: 304812472, Ack: 532166064, Len: 1158
+Hypertext Transfer Protocol
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3778 208.074834  155.111.186.252       251.215.76.253        HTTP     409    80       60386     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 3778: 409 bytes on wire (3272 bits), 409 bytes captured (3272 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60386 (60386), Seq: 304542398, Ack: 525845581, Len: 353
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3796 208.149628  155.111.186.252       251.215.76.253        HTTP     1004   80       60386     HTTP/1.1 200 OK  (application/x-javascript)
+
+Frame 3796: 1004 bytes on wire (8032 bits), 1004 bytes captured (8032 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60386 (60386), Seq: 304542751, Ack: 525846044, Len: 948
+Hypertext Transfer Protocol
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3805 208.158640  143.179.11.189        251.215.76.253        HTTP     770    80       52000     HTTP/1.1 200 OK  (image/gif)
+
+Frame 3805: 770 bytes on wire (6160 bits), 770 bytes captured (6160 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 143.179.11.189 (143.179.11.189), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 52000 (52000), Seq: 26432967, Ack: 524086871, Len: 726
+Hypertext Transfer Protocol
+Media Type
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3808 208.223559  154.27.68.55          251.215.76.253        HTTP     364    80       45231     HTTP/1.1 200 OK  (text/html)
+
+Frame 3808: 364 bytes on wire (2912 bits), 364 bytes captured (2912 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 154.27.68.55 (154.27.68.55), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 45231 (45231), Seq: 780619551, Ack: 522781170, Len: 320
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3811 208.232084  111.4.186.50          251.215.76.253        HTTP     843    80       34733     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 3811: 843 bytes on wire (6744 bits), 843 bytes captured (6744 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 111.4.186.50 (111.4.186.50), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 34733 (34733), Seq: 2997238484, Ack: 530581913, Len: 799
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3842 209.838994  93.199.112.45         205.232.201.195       HTTP     961    80       33297     HTTP/1.1 200 OK  (text/css)
+
+Frame 3842: 961 bytes on wire (7688 bits), 961 bytes captured (7688 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 93.199.112.45 (93.199.112.45), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 33297 (33297), Seq: 1987919615, Ack: 3310674754, Len: 905
+[3 Reassembled TCP Segments (3801 bytes): #3840(1448), #3841(1448), #3842(905)]
+Hypertext Transfer Protocol
+Line-based text data: text/css
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3920 210.330292  93.199.112.45         205.232.201.195       HTTP     1504   80       33297     [TCP Out-Of-Order] HTTP/1.1 200 OK  (JPEG JFIF image)
+
+Frame 3920: 1504 bytes on wire (12032 bits), 1504 bytes captured (12032 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 93.199.112.45 (93.199.112.45), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 33297 (33297), Seq: 1987967149, Ack: 3310675179, Len: 1448
+[35 Reassembled TCP Segments (48279 bytes): #3848(293), #3850(1448), #3851(1448), #3853(1448), #3859(1448), #3860(1448), #3861(1448), #3864(1448), #3865(1448), #3869(1448), #3870(1448), #3878(1448), #3879(1448), #3880(1448), #3882(1448), #3]
+Hypertext Transfer Protocol
+JPEG File Interchange Format
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3946 210.406627  93.199.112.45         205.232.201.195       HTTP     1504   80       33297     [TCP Out-Of-Order] HTTP/1.1 200 OK  (JPEG JFIF image)
+
+Frame 3946: 1504 bytes on wire (12032 bits), 1504 bytes captured (12032 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 93.199.112.45 (93.199.112.45), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 33297 (33297), Seq: 1987981831, Ack: 3310675628, Len: 1448
+[11 Reassembled TCP Segments (14840 bytes): #3936(1448), #3937(1448), #3938(1448), #3939(1448), #3940(1448), #3941(1448), #3942(1448), #3943(1448), #3944(1448), #3946(1448), #3945(360)]
+Hypertext Transfer Protocol
+JPEG File Interchange Format
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3970 210.516608  93.199.112.45         205.232.201.195       HTTP     1504   80       33298     [TCP Out-Of-Order] HTTP/1.1 200 OK  (JPEG JFIF image)
+
+Frame 3970: 1504 bytes on wire (12032 bits), 1504 bytes captured (12032 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 93.199.112.45 (93.199.112.45), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 33298 (33298), Seq: 1998169522, Ack: 3312732472, Len: 1448
+[24 Reassembled TCP Segments (32505 bytes): #3874(294), #3876(1448), #3898(1448), #3899(1448), #3900(1448), #3903(1448), #3924(1448), #3925(1448), #3927(1448), #3928(1448), #3929(1448), #3930(1448), #3951(1448), #3952(1448), #3954(1448), #3]
+Hypertext Transfer Protocol
+JPEG File Interchange Format
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3989 211.047472  93.199.112.45         205.232.201.195       HTTP/XML 1464   80       33297     HTTP/1.1 404 Not Found 
+
+Frame 3989: 1464 bytes on wire (11712 bits), 1464 bytes captured (11712 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 93.199.112.45 (93.199.112.45), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 33297 (33297), Seq: 1987983639, Ack: 3310675984, Len: 1408
+Hypertext Transfer Protocol
+eXtensible Markup Language
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   3997 211.534496  155.111.186.252       251.215.76.253        HTTP     632    80       60389     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 3997: 632 bytes on wire (5056 bits), 632 bytes captured (5056 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60389 (60389), Seq: 310382572, Ack: 534880767, Len: 576
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4004 211.563126  155.111.186.252       251.215.76.253        HTTP     348    80       60387     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 4004: 348 bytes on wire (2784 bits), 348 bytes captured (2784 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60387 (60387), Seq: 304490642, Ack: 535470919, Len: 292
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4012 211.597693  155.111.186.252       251.215.76.253        HTTP     779    80       60387     HTTP/1.1 200 OK  (application/x-shockwave-flash)
+
+Frame 4012: 779 bytes on wire (6232 bits), 779 bytes captured (6232 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60387 (60387), Seq: 304490934, Ack: 535471480, Len: 723
+Hypertext Transfer Protocol
+Media Type
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4014 211.599455  155.111.186.252       251.215.76.253        HTTP     486    80       60389     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 4014: 486 bytes on wire (3888 bits), 486 bytes captured (3888 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60389 (60389), Seq: 310383148, Ack: 534881337, Len: 430
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4015 211.600392  155.111.186.252       251.215.76.253        HTTP     377    80       60386     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 4015: 377 bytes on wire (3016 bits), 377 bytes captured (3016 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60386 (60386), Seq: 304543699, Ack: 525846608, Len: 321
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4016 211.600400  155.111.186.252       251.215.76.253        HTTP     499    80       60385     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 4016: 499 bytes on wire (3992 bits), 499 bytes captured (3992 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60385 (60385), Seq: 315979120, Ack: 536349196, Len: 443
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4051 211.664990  155.111.186.252       251.215.76.253        HTTP     435    80       60387     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 4051: 435 bytes on wire (3480 bits), 435 bytes captured (3480 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60387 (60387), Seq: 304502863, Ack: 535473200, Len: 379
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4053 211.666293  155.111.186.252       251.215.76.253        HTTP     433    80       60389     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 4053: 433 bytes on wire (3464 bits), 433 bytes captured (3464 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60389 (60389), Seq: 310398623, Ack: 534883091, Len: 377
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4061 211.670683  155.111.186.252       251.215.76.253        HTTP     1185   80       60389     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 4061: 1185 bytes on wire (9480 bits), 1185 bytes captured (9480 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60389 (60389), Seq: 310399000, Ack: 534883663, Len: 1129
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4074 211.674855  155.111.186.252       251.215.76.253        HTTP     381    80       60389     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 4074: 381 bytes on wire (3048 bits), 381 bytes captured (3048 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60389 (60389), Seq: 310400129, Ack: 534884234, Len: 325
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4075 211.674862  155.111.186.252       251.215.76.253        HTTP     836    80       60385     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 4075: 836 bytes on wire (6688 bits), 836 bytes captured (6688 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60385 (60385), Seq: 315996679, Ack: 536351518, Len: 780
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4078 211.675606  155.111.186.252       251.215.76.253        HTTP     703    80       60388     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 4078: 703 bytes on wire (5624 bits), 703 bytes captured (5624 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60388 (60388), Seq: 304914755, Ack: 532169461, Len: 647
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4079 211.675610  155.111.186.252       251.215.76.253        HTTP     876    80       60387     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 4079: 876 bytes on wire (7008 bits), 876 bytes captured (7008 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60387 (60387), Seq: 304515023, Ack: 535474349, Len: 820
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4098 211.855495  40.187.57.142         251.215.76.253        HTTP     557    80       55943     HTTP/1.1 302 Object moved 
+
+Frame 4098: 557 bytes on wire (4456 bits), 557 bytes captured (4456 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 40.187.57.142 (40.187.57.142), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 55943 (55943), Seq: 2385032299, Ack: 591159376, Len: 513
+Hypertext Transfer Protocol
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4101 211.997998  142.165.192.177       251.215.76.253        HTTP     481    80       58749     HTTP/1.1 302 Found  (text/html)
+
+Frame 4101: 481 bytes on wire (3848 bits), 481 bytes captured (3848 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 142.165.192.177 (142.165.192.177), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58749 (58749), Seq: 2716740758, Ack: 593685715, Len: 425
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4112 212.307055  155.111.186.252       251.215.76.253        HTTP     337    80       60385     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 4112: 337 bytes on wire (2696 bits), 337 bytes captured (2696 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60385 (60385), Seq: 316005332, Ack: 536353351, Len: 281
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4115 212.307574  155.111.186.252       251.215.76.253        HTTP     348    80       60387     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 4115: 348 bytes on wire (2784 bits), 348 bytes captured (2784 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60387 (60387), Seq: 304515843, Ack: 535474911, Len: 292
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4117 212.307611  155.111.186.252       251.215.76.253        HTTP     489    80       60388     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 4117: 489 bytes on wire (3912 bits), 489 bytes captured (3912 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60388 (60388), Seq: 304915402, Ack: 532170015, Len: 433
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4136 212.319748  142.165.192.188       251.215.76.253        HTTP     710    80       39736     HTTP/1.1 200 OK  (text/plain)
+
+Frame 4136: 710 bytes on wire (5680 bits), 710 bytes captured (5680 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 142.165.192.188 (142.165.192.188), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 39736 (39736), Seq: 4133972763, Ack: 588913791, Len: 654
+Hypertext Transfer Protocol
+Line-based text data: text/plain
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4144 212.336008  155.111.186.252       251.215.76.253        HTTP     822    80       60388     HTTP/1.1 200 OK  (application/x-javascript)
+
+Frame 4144: 822 bytes on wire (6576 bits), 822 bytes captured (6576 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60388 (60388), Seq: 304925943, Ack: 532171160, Len: 766
+Hypertext Transfer Protocol
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4145 212.338503  143.179.11.189        251.215.76.253        HTTP     571    80       52000     HTTP/1.1 200 OK  (image/gif)
+
+Frame 4145: 571 bytes on wire (4568 bits), 571 bytes captured (4568 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 143.179.11.189 (143.179.11.189), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 52000 (52000), Seq: 26433693, Ack: 524087456, Len: 527
+Hypertext Transfer Protocol
+Media Type
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4170 212.348312  155.111.186.252       251.215.76.253        HTTP     275    80       60407     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 4170: 275 bytes on wire (2200 bits), 275 bytes captured (2200 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.111.186.252 (155.111.186.252), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60407 (60407), Seq: 310206235, Ack: 599722637, Len: 219
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4773 231.670527  205.234.49.157        205.232.201.195       HTTP     68     80       51099     HTTP/1.1 302 Found  (text/html)
+
+Frame 4773: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 205.234.49.157 (205.234.49.157), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 51099 (51099), Seq: 4209362307, Ack: 3323873826, Len: 12
+[2 Reassembled TCP Segments (1460 bytes): #4772(1448), #4773(12)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   4991 238.332868  159.79.22.194         42.9.203.117          HTTP     395    80       41520     HTTP/1.1 404 Not Found  (text/html)
+
+Frame 4991: 395 bytes on wire (3160 bits), 395 bytes captured (3160 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.194 (159.79.22.194), Dst: 42.9.203.117 (42.9.203.117)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 41520 (41520), Seq: 1882053211, Ack: 424677115, Len: 339
+[6 Reassembled TCP Segments (7579 bytes): #4976(1448), #4977(1448), #4978(1448), #4989(1448), #4990(1448), #4991(339)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5003 238.395946  159.79.22.194         42.9.203.117          HTTP     395    80       24945     HTTP/1.1 404 Not Found  (text/html)
+
+Frame 5003: 395 bytes on wire (3160 bits), 395 bytes captured (3160 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.194 (159.79.22.194), Dst: 42.9.203.117 (42.9.203.117)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 24945 (24945), Seq: 1881915595, Ack: 426741294, Len: 339
+[6 Reassembled TCP Segments (7579 bytes): #4983(1448), #4984(1448), #4985(1448), #5001(1448), #5002(1448), #5003(339)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5015 238.468324  159.79.22.194         42.9.203.117          HTTP     386    80       41527     HTTP/1.1 404 Not Found  (text/html)
+
+Frame 5015: 386 bytes on wire (3088 bits), 386 bytes captured (3088 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.194 (159.79.22.194), Dst: 42.9.203.117 (42.9.203.117)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 41527 (41527), Seq: 1882248607, Ack: 420912259, Len: 330
+[6 Reassembled TCP Segments (7570 bytes): #4997(1448), #4999(1448), #5000(1448), #5012(1448), #5014(1448), #5015(330)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5046 242.757563  159.79.22.198         251.215.153.250       HTTP     507    80       55996     HTTP/1.1 404 Not Found  (text/html)
+
+Frame 5046: 507 bytes on wire (4056 bits), 507 bytes captured (4056 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.198 (159.79.22.198), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 55996 (55996), Seq: 1121491244, Ack: 2573092192, Len: 451
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5156 250.140868  205.234.49.157        205.232.201.195       HTTP     108    80       51101     HTTP/1.1 302 Found  (text/html)
+
+Frame 5156: 108 bytes on wire (864 bits), 108 bytes captured (864 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 205.234.49.157 (205.234.49.157), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 51101 (51101), Seq: 4236254845, Ack: 3355768060, Len: 52
+[2 Reassembled TCP Segments (1500 bytes): #5155(1448), #5156(52)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5193 252.280318  205.234.49.157        205.232.201.195       HTTP     702    80       51101     HTTP/1.1 302 Found  (text/html)
+
+Frame 5193: 702 bytes on wire (5616 bits), 702 bytes captured (5616 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 205.234.49.157 (205.234.49.157), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 51101 (51101), Seq: 4236254897, Ack: 3355768780, Len: 646
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5199 252.731542  205.234.49.157        205.232.201.195       HTTP     556    80       51101     HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 5199: 556 bytes on wire (4448 bits), 556 bytes captured (4448 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 205.234.49.157 (205.234.49.157), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 51101 (51101), Seq: 4236255543, Ack: 3355769387, Len: 500
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5276 253.719456  93.199.112.45         205.232.201.195       HTTP     1504   80       33303     [TCP Out-Of-Order] HTTP/1.1 200 OK  (GIF87a)
+
+Frame 5276: 1504 bytes on wire (12032 bits), 1504 bytes captured (12032 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 93.199.112.45 (93.199.112.45), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 33303 (33303), Seq: 2033751955, Ack: 3353151522, Len: 1448
+[25 Reassembled TCP Segments (34667 bytes): #5232(1448), #5233(1448), #5234(1448), #5238(1448), #5239(1448), #5241(1448), #5242(1448), #5245(1448), #5249(1448), #5250(1448), #5252(1448), #5253(1448), #5254(1448), #5255(1448), #5261(1448), #]
+Hypertext Transfer Protocol
+Compuserve GIF, Version: GIF87a
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5315 260.848310  205.232.203.30        205.232.201.195       HTTP     352    80       57675     HTTP/1.1 302 Found 
+
+Frame 5315: 352 bytes on wire (2816 bits), 352 bytes captured (2816 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 205.232.203.30 (205.232.203.30), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 57675 (57675), Seq: 1457745799, Ack: 3360933728, Len: 296
+Hypertext Transfer Protocol
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5392 261.737081  93.199.112.45         205.232.201.195       HTTP     1160   80       33305     HTTP/1.1 200 OK  (text/css)
+
+Frame 5392: 1160 bytes on wire (9280 bits), 1160 bytes captured (9280 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 93.199.112.45 (93.199.112.45), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 33305 (33305), Seq: 2050912371, Ack: 3365621737, Len: 1104
+[4 Reassembled TCP Segments (4290 bytes): #5387(290), #5389(1448), #5390(1448), #5392(1104)]
+Hypertext Transfer Protocol
+Line-based text data: text/css
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5400 261.939926  93.199.112.45         205.232.201.195       HTTP     515    80       33305     HTTP/1.1 200 OK  (text/css)
+
+Frame 5400: 515 bytes on wire (4120 bits), 515 bytes captured (4120 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 93.199.112.45 (93.199.112.45), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 33305 (33305), Seq: 2050913475, Ack: 3365622229, Len: 459
+Hypertext Transfer Protocol
+Line-based text data: text/css
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5497 262.454604  93.199.112.45         205.232.201.195       HTTP     825    80       33303     HTTP/1.1 200 OK  (JPEG JFIF image)
+
+Frame 5497: 825 bytes on wire (6600 bits), 825 bytes captured (6600 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 93.199.112.45 (93.199.112.45), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 33303 (33303), Seq: 2033872724, Ack: 3353152525, Len: 769
+[69 Reassembled TCP Segments (99233 bytes): #5404(1448), #5405(1448), #5408(1448), #5411(1448), #5412(1448), #5415(1448), #5416(1448), #5418(1448), #5420(1448), #5423(1448), #5424(1448), #5425(1448), #5428(1448), #5429(1448), #5431(1448), #]
+Hypertext Transfer Protocol
+JPEG File Interchange Format
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5558 270.178432  205.232.201.218       44.154.102.10         HTTP     363    80       59588     HTTP/1.1 200 OK  (text/plain)
+
+Frame 5558: 363 bytes on wire (2904 bits), 363 bytes captured (2904 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 205.232.201.218 (205.232.201.218), Dst: 44.154.102.10 (44.154.102.10)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 59588 (59588), Seq: 2129105070, Ack: 474879485, Len: 319
+Hypertext Transfer Protocol
+Line-based text data: text/plain
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5716 271.030559  205.232.201.218       44.154.102.42         HTTP     50     80       53706     HTTP/1.1 200 OK  (application/pdf)
+
+Frame 5716: 50 bytes on wire (400 bits), 47 bytes captured (376 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 205.232.201.218 (205.232.201.218), Dst: 44.154.102.42 (44.154.102.42)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 53706 (53706), Seq: 2133969820, Ack: 2308751874, Len: 3
+[101 Reassembled TCP Segments (145297 bytes): #5572(1460), #5573(1460), #5575(1460), #5576(1460), #5578(1460), #5579(1460), #5581(1460), #5582(1460), #5584(1460), #5587(1460), #5588(1460), #5589(1460), #5590(1460), #5591(1460), #5593(1460),]
+Hypertext Transfer Protocol
+Media Type
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5761 276.058158  159.79.22.249         251.215.153.250       HTTP     608    80       57699     HTTP/1.1 403 Forbidden  (text/html)
+
+Frame 5761: 608 bytes on wire (4864 bits), 608 bytes captured (4864 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 57699 (57699), Seq: 1545980165, Ack: 3783017040, Len: 552
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5800 280.357337  159.79.22.249         251.215.153.250       HTTP     554    80       58055     HTTP/1.1 400 Bad Request  (text/html)
+
+Frame 5800: 554 bytes on wire (4432 bits), 554 bytes captured (4432 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58055 (58055), Seq: 1544994168, Ack: 1161183910, Len: 498
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5812 280.362936  159.79.22.249         251.215.153.250       HTTP     487    80       58057     HTTP/1.1 200 OK  (text/html)
+
+Frame 5812: 487 bytes on wire (3896 bits), 487 bytes captured (3896 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58057 (58057), Seq: 1555933829, Ack: 2000903232, Len: 431
+[3 Reassembled TCP Segments (2151 bytes): #5810(272), #5811(1448), #5812(431)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5926 309.381982  159.79.22.249         251.215.153.250       HTTP     608    80       60123     HTTP/1.1 403 Forbidden  (text/html)
+
+Frame 5926: 608 bytes on wire (4864 bits), 608 bytes captured (4864 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60123 (60123), Seq: 1601576307, Ack: 878186692, Len: 552
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5936 313.713608  159.79.22.249         251.215.153.250       HTTP     554    80       60410     HTTP/1.1 400 Bad Request  (text/html)
+
+Frame 5936: 554 bytes on wire (4432 bits), 554 bytes captured (4432 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60410 (60410), Seq: 1602214429, Ack: 42320109, Len: 498
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5948 313.730840  159.79.22.249         251.215.153.250       HTTP     487    80       60412     HTTP/1.1 200 OK  (text/html)
+
+Frame 5948: 487 bytes on wire (3896 bits), 487 bytes captured (3896 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60412 (60412), Seq: 1600932895, Ack: 1496071512, Len: 431
+[3 Reassembled TCP Segments (2151 bytes): #5946(272), #5947(1448), #5948(431)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5960 316.313328  159.79.22.249         251.215.153.250       HTTP     161    8080     60589     HTTP/1.0 400 Bad Request  (text/html)
+
+Frame 5960: 161 bytes on wire (1288 bits), 161 bytes captured (1288 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 8080 (8080), Dst Port: 60589 (60589), Seq: 1599683374, Ack: 1658579656, Len: 105
+[2 Reassembled TCP Segments (1553 bytes): #5959(1448), #5960(105)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5971 319.860118  159.79.22.249         251.215.153.250       HTTP     604    80       60825     HTTP/1.1 403 Forbidden  (text/html)
+
+Frame 5971: 604 bytes on wire (4832 bits), 604 bytes captured (4832 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60825 (60825), Seq: 1598867622, Ack: 1170513212, Len: 548
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5981 320.083606  159.79.22.249         251.215.153.250       HTTP     608    80       60836     HTTP/1.1 403 Forbidden  (text/html)
+
+Frame 5981: 608 bytes on wire (4864 bits), 608 bytes captured (4864 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60836 (60836), Seq: 1610743783, Ack: 2819642329, Len: 552
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   5991 320.561628  159.79.22.249         251.215.153.250       HTTP     941    80       60887     HTTP/1.1 200 OK  (text/html)
+
+Frame 5991: 941 bytes on wire (7528 bits), 941 bytes captured (7528 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60887 (60887), Seq: 1613279230, Ack: 668483919, Len: 885
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   6001 320.567001  159.79.22.249         251.215.153.250       HTTP     1042   80       60888     HTTP/1.1 200 OK  (text/html)
+
+Frame 6001: 1042 bytes on wire (8336 bits), 1042 bytes captured (8336 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60888 (60888), Seq: 1602739939, Ack: 76838423, Len: 986
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   6011 320.758133  159.79.22.249         251.215.153.250       HTTP     605    80       60892     HTTP/1.1 403 Forbidden  (text/html)
+
+Frame 6011: 605 bytes on wire (4840 bits), 605 bytes captured (4840 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60892 (60892), Seq: 1600003143, Ack: 2923733773, Len: 549
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   6023 320.805021  159.79.22.249         251.215.153.250       HTTP     487    80       60907     HTTP/1.1 200 OK  (text/html)
+
+Frame 6023: 487 bytes on wire (3896 bits), 487 bytes captured (3896 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60907 (60907), Seq: 1599839702, Ack: 1453361874, Len: 431
+[3 Reassembled TCP Segments (2151 bytes): #6021(272), #6022(1448), #6023(431)]
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   6034 321.100743  159.79.22.249         251.215.153.250       HTTP     716    80       60926     HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 6034: 716 bytes on wire (5728 bits), 716 bytes captured (5728 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60926 (60926), Seq: 1600432784, Ack: 532447759, Len: 660
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   6044 321.106851  159.79.22.249         251.215.153.250       HTTP     696    80       60929     HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 6044: 696 bytes on wire (5568 bits), 696 bytes captured (5568 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60929 (60929), Seq: 1609920734, Ack: 658651031, Len: 640
+Hypertext Transfer Protocol
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length src port dest port info
+   6056 321.356346  159.79.22.249         251.215.153.250       HTTP     487    80       60944     HTTP/1.1 200 OK  (text/html)
+
+Frame 6056: 487 bytes on wire (3896 bits), 487 bytes captured (3896 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60944 (60944), Seq: 1610373588, Ack: 2260944291, Len: 431
+[3 Reassembled TCP Segments (2151 bytes): #6054(272), #6055(1448), #6056(431)]
+Hypertext Transfer Protocol
+Line-based text data: text/html

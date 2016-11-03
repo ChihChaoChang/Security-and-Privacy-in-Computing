@@ -1,0 +1,2627 @@
+No.     Time        Source                Destination           Protocol Length Info
+     85 13.080796   33.247.152.113        172.27.37.232         HTTP     367    HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 85: 367 bytes on wire (2936 bits), 367 bytes captured (2936 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 33.247.152.113 (33.247.152.113), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58286 (58286), Seq: 240, Ack: 696, Len: 311
+[2 Reassembled TCP Segments (550 bytes): #83(239), #85(311)]
+Hypertext Transfer Protocol
+    HTTP/1.1 301 Moved Permanently\r\n
+    Date: Fri, 04 May 2007 21:33:50 GMT\r\n
+    Server: Apache/1.3.37 (Unix) mod_perl/1.29\r\n
+    Location: http://slashdot.org/\r\n
+    Connection: close\r\n
+    Transfer-Encoding: chunked\r\n
+    Content-Type: text/html; charset=iso-8859-1\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.008922000 seconds]
+    [Request in frame: 81]
+    HTTP chunked response
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+    168 19.279927   33.247.152.101        172.27.37.232         HTTP     1332   HTTP/1.1 200 OK  (application/x-javascript)
+
+Frame 168: 1332 bytes on wire (10656 bits), 1332 bytes captured (10656 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 33.247.152.101 (33.247.152.101), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58288 (58288), Seq: 4667, Ack: 403, Len: 1276
+[5 Reassembled TCP Segments (5942 bytes): #160(322), #162(1448), #164(1448), #166(1448), #168(1276)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:33:57 GMT\r\n
+    Server: Apache/2.0.55 (Unix) mod_ssl/2.0.55 OpenSSL/0.9.7a mod_perl/2.0.2 Perl/v5.8.8\r\n
+    Last-Modified: Fri, 13 Apr 2007 13:18:19 GMT\r\n
+    ETag: "3c623e-15f4-5642bcc0"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 5620\r\n
+    Connection: close\r\n
+    Content-Type: application/x-javascript\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.013580000 seconds]
+    [Request in frame: 158]
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length Info
+    536 29.648162   44.111.85.82          251.215.76.253        HTTP     81     HTTP/1.1 200 OK  (text/html)
+
+Frame 536: 81 bytes on wire (648 bits), 81 bytes captured (648 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 44.111.85.82 (44.111.85.82), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 53745 (53745), Seq: 13401, Ack: 639, Len: 37
+[14 Reassembled TCP Segments (13437 bytes): #507(1340), #509(120), #511(1340), #513(120), #515(1340), #517(120), #522(1340), #524(1340), #526(1340), #528(980), #530(1340), #532(1340), #534(1340), #536(37)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 12 Mar 2010 01:08:50 GMT\r\n
+    Server: Apache/2.2.3 (CentOS)\r\n
+    Vary: Accept-Encoding\r\n
+    Content-Encoding: gzip\r\n
+    Content-Length: 13221\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=utf-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.311103000 seconds]
+    [Request in frame: 496]
+    Content-encoded entity body (gzip): 13221 bytes -> 56921 bytes
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+    553 30.177082   248.78.109.66         205.232.201.195       HTTP     579    HTTP/1.1 302 Found  (text/html)
+
+Frame 553: 579 bytes on wire (4632 bits), 579 bytes captured (4632 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46856 (46856), Seq: 1, Ack: 497, Len: 523
+Hypertext Transfer Protocol
+    HTTP/1.1 302 Found\r\n
+    Date: Fri, 04 May 2007 21:34:07 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Location: http://www.usenix.org/events/hotos05/index.html\r\n
+    Connection: close\r\n
+    Transfer-Encoding: chunked\r\n
+    Content-Type: text/html; charset=iso-8859-1\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.159735000 seconds]
+    [Request in frame: 551]
+    HTTP chunked response
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+    582 30.415607   248.78.109.66         205.232.201.195       HTTP     1488   HTTP/1.1 200 OK  (text/html)
+
+Frame 582: 1488 bytes on wire (11904 bits), 1488 bytes captured (11904 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46857 (46857), Seq: 9859, Ack: 514, Len: 1432
+[8 Reassembled TCP Segments (11290 bytes): #568(1448), #569(1448), #572(1410), #574(1448), #576(1448), #578(1208), #580(1448), #582(1432)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:08 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Connection: close\r\n
+    Transfer-Encoding: chunked\r\n
+    Content-Type: text/html\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.028351000 seconds]
+    [Request in frame: 566]
+    HTTP chunked response
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+    642 32.397611   138.59.102.27         172.27.37.232         HTTP     1083   HTTP/1.1 200 OK  (text/html)
+
+Frame 642: 1083 bytes on wire (8664 bits), 1083 bytes captured (8664 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 31857, Ack: 471, Len: 1027
+[23 Reassembled TCP Segments (32883 bytes): #587(1448), #589(1448), #594(1448), #596(1448), #598(1448), #600(1448), #605(1448), #607(1448), #609(1448), #611(1448), #613(1448), #615(1448), #617(1448), #619(1448), #626(1448), #628(1448), #630]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:08 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    X-Powered-By: PHP/4.3.10-18\r\n
+    Set-Cookie: PHPSESSID=c05d8849194306385133f9aa878db6e3; path=/\r\n
+    Expires: Thu, 19 Nov 1981 08:52:00 GMT\r\n
+    Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0\r\n
+    Pragma: no-cache\r\n
+    Keep-Alive: timeout=15, max=100\r\n
+    Connection: Keep-Alive\r\n
+    Transfer-Encoding: chunked\r\n
+    Content-Type: text/html; charset=ISO-8859-1\r\n
+    \r\n
+    [HTTP response 1/24]
+    [Time since request: 2.193903000 seconds]
+    [Request in frame: 561]
+    [Next request in frame: 650]
+    [Next response in frame: 654]
+    HTTP chunked response
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+    648 32.448623   138.59.102.27         172.27.37.232         HTTP     135    HTTP/1.1 200 OK  (text/css)
+
+Frame 648: 135 bytes on wire (1080 bits), 135 bytes captured (1080 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58296 (58296), Seq: 5793, Ack: 464, Len: 79
+[5 Reassembled TCP Segments (5871 bytes): #622(1448), #624(1448), #644(1448), #646(1448), #648(79)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:09 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Mon, 05 Mar 2007 13:54:13 GMT\r\n
+    ETag: "298ae7-15b6-4ad68b40"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 5558\r\n
+    Keep-Alive: timeout=15, max=100\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: text/css\r\n
+    \r\n
+    [HTTP response 1/9]
+    [Time since request: 0.607477000 seconds]
+    [Request in frame: 604]
+    [Next request in frame: 656]
+    [Next response in frame: 658]
+Line-based text data: text/css
+
+No.     Time        Source                Destination           Protocol Length Info
+    654 32.754875   138.59.102.27         172.27.37.232         HTTP     212    HTTP/1.1 200 OK  (text/css)
+
+Frame 654: 212 bytes on wire (1696 bits), 212 bytes captured (1696 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 34332, Ack: 935, Len: 156
+[2 Reassembled TCP Segments (1604 bytes): #653(1448), #654(156)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:10 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Sat, 19 Aug 2006 15:03:42 GMT\r\n
+    ETag: "298aeb-50d-2ec02f80"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 1293\r\n
+    Keep-Alive: timeout=15, max=99\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: text/css\r\n
+    \r\n
+    [HTTP response 2/24]
+    [Time since request: 0.301096000 seconds]
+    [Prev request in frame: 561]
+    [Prev response in frame: 642]
+    [Request in frame: 650]
+    [Next request in frame: 657]
+    [Next response in frame: 661]
+Line-based text data: text/css
+
+No.     Time        Source                Destination           Protocol Length Info
+    658 33.061064   138.59.102.27         172.27.37.232         HTTP     688    HTTP/1.1 200 OK  (image/x-icon)
+
+Frame 658: 688 bytes on wire (5504 bits), 688 bytes captured (5504 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58296 (58296), Seq: 5872, Ack: 879, Len: 632
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:10 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Wed, 03 Jan 2007 12:50:37 GMT\r\n
+    ETag: "29d094-13e-4b112140"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 318\r\n
+    Keep-Alive: timeout=15, max=99\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/x-icon\r\n
+    \r\n
+    [HTTP response 2/9]
+    [Time since request: 0.297710000 seconds]
+    [Prev request in frame: 604]
+    [Prev response in frame: 648]
+    [Request in frame: 656]
+    [Next request in frame: 663]
+    [Next response in frame: 674]
+Media Type
+
+No.     Time        Source                Destination           Protocol Length Info
+    661 33.066532   138.59.102.27         172.27.37.232         HTTP     1359   HTTP/1.1 200 OK  (application/x-javascript)
+
+Frame 661: 1359 bytes on wire (10872 bits), 1359 bytes captured (10872 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 35936, Ack: 1379, Len: 1303
+[2 Reassembled TCP Segments (2751 bytes): #660(1448), #661(1303)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:10 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Wed, 11 Apr 2007 12:30:12 GMT\r\n
+    ETag: "298ae0-978-6e7fdd00"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 2424\r\n
+    Keep-Alive: timeout=15, max=98\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: application/x-javascript\r\n
+    \r\n
+    [HTTP response 3/24]
+    [Time since request: 0.298495000 seconds]
+    [Prev request in frame: 650]
+    [Prev response in frame: 654]
+    [Request in frame: 657]
+    [Next request in frame: 664]
+    [Next response in frame: 686]
+Line-based text data: application/x-javascript
+
+No.     Time        Source                Destination           Protocol Length Info
+    674 33.405483   138.59.102.27         172.27.37.232         HTTP     1399   HTTP/1.1 200 OK  (PNG)
+
+Frame 674: 1399 bytes on wire (11192 bits), 1399 bytes captured (11192 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58296 (58296), Seq: 12296, Ack: 1344, Len: 1343
+[5 Reassembled TCP Segments (7135 bytes): #666(1448), #668(1448), #670(1448), #672(1448), #674(1343)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:11 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Sat, 29 Jul 2006 22:05:44 GMT\r\n
+    ETag: "2a0008-1aa6-a1645e00"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 6822\r\n
+    Keep-Alive: timeout=15, max=98\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/png\r\n
+    \r\n
+    [HTTP response 3/9]
+    [Time since request: 0.296885000 seconds]
+    [Prev request in frame: 656]
+    [Prev response in frame: 658]
+    [Request in frame: 663]
+    [Next request in frame: 676]
+    [Next response in frame: 743]
+Portable Network Graphics
+
+No.     Time        Source                Destination           Protocol Length Info
+    686 33.412903   138.59.102.27         172.27.37.232         HTTP     945    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 686: 945 bytes on wire (7560 bits), 945 bytes captured (7560 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 50271, Ack: 1859, Len: 889
+[10 Reassembled TCP Segments (13921 bytes): #677(1448), #678(1448), #679(1448), #680(1448), #681(1448), #682(1448), #683(1448), #684(1448), #685(1448), #686(889)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:11 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Thu, 07 Dec 2006 16:21:59 GMT\r\n
+    ETag: "29cb2e-3527-1941f7c0"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 13607\r\n
+    Keep-Alive: timeout=15, max=97\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 4/24]
+    [Time since request: 0.298660000 seconds]
+    [Prev request in frame: 657]
+    [Prev response in frame: 661]
+    [Request in frame: 664]
+    [Next request in frame: 688]
+    [Next response in frame: 711]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+    711 33.716131   138.59.102.27         172.27.37.232         HTTP     1417   HTTP/1.1 200 OK  (JPEG JFIF image)
+
+Frame 711: 1417 bytes on wire (11336 bits), 1417 bytes captured (11336 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 56952, Ack: 2343, Len: 1361
+[5 Reassembled TCP Segments (7153 bytes): #707(1448), #708(1448), #709(1448), #710(1448), #711(1361)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:11 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Tue, 27 Mar 2007 14:57:11 GMT\r\n
+    ETag: "27000d-1ab8-bc887fc0"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 6840\r\n
+    Keep-Alive: timeout=15, max=96\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 5/24]
+    [Time since request: 0.302063000 seconds]
+    [Prev request in frame: 664]
+    [Prev response in frame: 686]
+    [Request in frame: 688]
+    [Next request in frame: 713]
+    [Next response in frame: 733]
+    [Expert Info (Note/Malformed): HTTP body subdissector failed, trying heuristic subdissector]
+JPEG File Interchange Format
+
+No.     Time        Source                Destination           Protocol Length Info
+    733 34.019249   138.59.102.27         172.27.37.232         HTTP     703    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 733: 703 bytes on wire (5624 bits), 703 bytes captured (5624 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 62657, Ack: 2823, Len: 647
+[4 Reassembled TCP Segments (4991 bytes): #730(1448), #731(1448), #732(1448), #733(647)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:11 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Thu, 24 Aug 2006 17:50:44 GMT\r\n
+    ETag: "29cb33-1246-1950a500"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 4678\r\n
+    Keep-Alive: timeout=15, max=95\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 6/24]
+    [Time since request: 0.300943000 seconds]
+    [Prev request in frame: 688]
+    [Prev response in frame: 711]
+    [Request in frame: 713]
+    [Next request in frame: 735]
+    [Next response in frame: 761]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+    743 34.306587   138.59.102.27         172.27.37.232         HTTP     828    HTTP/1.1 200 OK  (application/x-shockwave-flash)
+
+Frame 743: 828 bytes on wire (6624 bits), 828 bytes captured (6624 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58296 (58296), Seq: 36807, Ack: 1962, Len: 772
+[17 Reassembled TCP Segments (23940 bytes): #698(1448), #699(1448), #701(1448), #702(1448), #704(1448), #705(1448), #718(1448), #719(1448), #721(1448), #722(1448), #724(1448), #725(1448), #726(1448), #727(1448), #728(1448), #742(1448), #743]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:11 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Thu, 19 Apr 2007 12:15:23 GMT\r\n
+    ETag: "270010-5c36-283dccc0"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 23606\r\n
+    Keep-Alive: timeout=15, max=97\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: application/x-shockwave-flash\r\n
+    \r\n
+    [HTTP response 4/9]
+    [Time since request: 0.898130000 seconds]
+    [Prev request in frame: 663]
+    [Prev response in frame: 674]
+    [Request in frame: 676]
+    [Next request in frame: 745]
+    [Next response in frame: 830]
+Media Type
+
+No.     Time        Source                Destination           Protocol Length Info
+    761 34.318471   138.59.102.27         172.27.37.232         HTTP     749    HTTP/1.1 200 OK  (JPEG JFIF image)
+
+Frame 761: 749 bytes on wire (5992 bits), 749 bytes captured (5992 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 79232, Ack: 3306, Len: 693
+[12 Reassembled TCP Segments (16621 bytes): #746(1448), #747(1448), #749(1448), #750(1448), #752(1448), #753(1448), #754(1448), #755(1448), #757(1448), #758(1448), #760(1448), #761(693)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:12 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Thu, 26 Apr 2007 14:47:36 GMT\r\n
+    ETag: "270015-3fb3-197ff200"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 16307\r\n
+    Keep-Alive: timeout=15, max=94\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 7/24]
+    [Time since request: 0.297047000 seconds]
+    [Prev request in frame: 713]
+    [Prev response in frame: 733]
+    [Request in frame: 735]
+    [Next request in frame: 763]
+    [Next response in frame: 804]
+    [Expert Info (Note/Malformed): HTTP body subdissector failed, trying heuristic subdissector]
+JPEG File Interchange Format
+
+No.     Time        Source                Destination           Protocol Length Info
+    804 34.922688   138.59.102.27         172.27.37.232         HTTP     530    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 804: 530 bytes on wire (4240 bits), 530 bytes captured (4240 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 100197, Ack: 3787, Len: 474
+[15 Reassembled TCP Segments (20746 bytes): #780(1448), #781(1448), #783(1448), #784(1448), #786(1448), #787(1448), #788(1448), #789(1448), #790(1448), #791(1448), #792(1448), #800(1448), #801(1448), #803(1448), #804(474)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:12 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Thu, 07 Dec 2006 16:21:28 GMT\r\n
+    ETag: "29cb2c-4fd0-1768f200"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 20432\r\n
+    Keep-Alive: timeout=15, max=93\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 8/24]
+    [Time since request: 0.600085000 seconds]
+    [Prev request in frame: 735]
+    [Prev response in frame: 761]
+    [Request in frame: 763]
+    [Next request in frame: 806]
+    [Next response in frame: 824]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+    824 35.222866   138.59.102.27         172.27.37.232         HTTP     318    HTTP/1.1 200 OK  (application/x-shockwave-flash)
+
+Frame 824: 318 bytes on wire (2544 bits), 318 bytes captured (2544 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 109359, Ack: 4363, Len: 262
+[7 Reassembled TCP Segments (8950 bytes): #816(1448), #817(1448), #819(1448), #820(1448), #822(1448), #823(1448), #824(262)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:12 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Thu, 19 Apr 2007 12:50:02 GMT\r\n
+    ETag: "270012-21a9-a428d280"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 8617\r\n
+    Keep-Alive: timeout=15, max=92\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: application/x-shockwave-flash\r\n
+    \r\n
+    [HTTP response 9/24]
+    [Time since request: 0.299966000 seconds]
+    [Prev request in frame: 763]
+    [Prev response in frame: 804]
+    [Request in frame: 806]
+    [Next request in frame: 826]
+    [Next response in frame: 846]
+Media Type
+
+No.     Time        Source                Destination           Protocol Length Info
+    830 35.466552   138.59.102.27         172.27.37.232         HTTP     1504   [TCP Retransmission] HTTP/1.1 200 OK  (JPEG JFIF image)
+
+Frame 830: 1504 bytes on wire (12032 bits), 1504 bytes captured (12032 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58296 (58296), Seq: 49163, Ack: 2435, Len: 1448
+[10 Reassembled TCP Segments (13641 bytes): #768(1448), #769(1448), #771(1448), #772(1448), #774(1448), #775(1448), #777(1448), #778(1448), #830(1448), #798(609)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:12 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Mon, 23 Apr 2007 14:20:53 GMT\r\n
+    ETag: "270013-340f-606dfb40"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 13327\r\n
+    Keep-Alive: timeout=15, max=96\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 5/9]
+    [Time since request: 1.159770000 seconds]
+    [Prev request in frame: 676]
+    [Prev response in frame: 743]
+    [Request in frame: 745]
+    [Next request in frame: 832]
+    [Next response in frame: 924]
+    [Expert Info (Note/Malformed): HTTP body subdissector failed, trying heuristic subdissector]
+JPEG File Interchange Format
+
+No.     Time        Source                Destination           Protocol Length Info
+    846 35.523207   138.59.102.27         172.27.37.232         HTTP     974    HTTP/1.1 200 OK  (application/x-shockwave-flash)
+
+Frame 846: 974 bytes on wire (7792 bits), 974 bytes captured (7792 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 126997, Ack: 4940, Len: 918
+[13 Reassembled TCP Segments (18294 bytes): #833(1448), #834(1448), #836(1448), #837(1448), #838(1448), #839(1448), #840(1448), #841(1448), #842(1448), #843(1448), #844(1448), #845(1448), #846(918)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:13 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Mon, 12 Feb 2007 17:36:36 GMT\r\n
+    ETag: "27000a-4628-f379b100"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 17960\r\n
+    Keep-Alive: timeout=15, max=91\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: application/x-shockwave-flash\r\n
+    \r\n
+    [HTTP response 10/24]
+    [Time since request: 0.300158000 seconds]
+    [Prev request in frame: 806]
+    [Prev response in frame: 824]
+    [Request in frame: 826]
+    [Next request in frame: 848]
+    [Next response in frame: 901]
+Media Type
+
+No.     Time        Source                Destination           Protocol Length Info
+    901 35.822043   138.59.102.27         172.27.37.232         HTTP     776    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 901: 776 bytes on wire (6208 bits), 776 bytes captured (6208 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 136603, Ack: 5415, Len: 720
+[7 Reassembled TCP Segments (9408 bytes): #892(1448), #893(1448), #895(1448), #896(1448), #898(1448), #899(1448), #901(720)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:13 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Fri, 04 May 2007 16:31:38 GMT\r\n
+    ETag: "cc063-2388-7c484e80"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 9096\r\n
+    Keep-Alive: timeout=15, max=90\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 11/24]
+    [Time since request: 0.297126000 seconds]
+    [Prev request in frame: 826]
+    [Prev response in frame: 846]
+    [Request in frame: 848]
+    [Next request in frame: 902]
+    [Next response in frame: 918]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+    918 36.124734   138.59.102.27         172.27.37.232         HTTP     1162   HTTP/1.1 200 OK  (GIF89a)
+
+Frame 918: 1162 bytes on wire (9296 bits), 1162 bytes captured (9296 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 144563, Ack: 5890, Len: 1106
+[6 Reassembled TCP Segments (8346 bytes): #912(1448), #913(1448), #915(1448), #916(1448), #917(1448), #918(1106)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:13 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Fri, 04 May 2007 16:31:38 GMT\r\n
+    ETag: "cc062-1f62-7c484e80"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 8034\r\n
+    Keep-Alive: timeout=15, max=89\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 12/24]
+    [Time since request: 0.302479000 seconds]
+    [Prev request in frame: 848]
+    [Prev response in frame: 901]
+    [Request in frame: 902]
+    [Next request in frame: 920]
+    [Next response in frame: 935]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+    924 36.357424   138.59.102.27         172.27.37.232         HTTP     1011   HTTP/1.1 200 OK  (GIF89a)
+
+Frame 924: 1011 bytes on wire (8088 bits), 1011 bytes captured (8088 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58296 (58296), Seq: 58460, Ack: 2915, Len: 955
+[6 Reassembled TCP Segments (8195 bytes): #889(1448), #890(1448), #907(1448), #908(1448), #910(1448), #924(955)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:13 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Fri, 04 May 2007 16:31:38 GMT\r\n
+    ETag: "cc064-1ecb-7c484e80"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 7883\r\n
+    Keep-Alive: timeout=15, max=95\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 6/9]
+    [Time since request: 0.890632000 seconds]
+    [Prev request in frame: 745]
+    [Prev response in frame: 830]
+    [Request in frame: 832]
+    [Next request in frame: 926]
+    [Next response in frame: 1021]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+    935 36.424861   138.59.102.27         172.27.37.232         HTTP     322    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 935: 322 bytes on wire (2576 bits), 322 bytes captured (2576 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 154357, Ack: 6366, Len: 266
+[7 Reassembled TCP Segments (8954 bytes): #927(1448), #928(1448), #930(1448), #931(1448), #933(1448), #934(1448), #935(266)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:14 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Fri, 04 May 2007 16:31:38 GMT\r\n
+    ETag: "cc065-21c2-7c484e80"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 8642\r\n
+    Keep-Alive: timeout=15, max=88\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 13/24]
+    [Time since request: 0.297419000 seconds]
+    [Prev request in frame: 902]
+    [Prev response in frame: 918]
+    [Request in frame: 920]
+    [Next request in frame: 937]
+    [Next response in frame: 955]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+    955 36.726844   138.59.102.27         172.27.37.232         HTTP     629    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 955: 629 bytes on wire (5032 bits), 629 bytes captured (5032 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 161863, Ack: 6844, Len: 573
+[6 Reassembled TCP Segments (7813 bytes): #948(1448), #949(1448), #951(1448), #952(1448), #954(1448), #955(573)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:14 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Fri, 04 May 2007 16:31:37 GMT\r\n
+    ETag: "cc061-1d4d-7c390c40"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 7501\r\n
+    Keep-Alive: timeout=15, max=87\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 14/24]
+    [Time since request: 0.301273000 seconds]
+    [Prev request in frame: 920]
+    [Prev response in frame: 935]
+    [Request in frame: 937]
+    [Next request in frame: 957]
+    [Next response in frame: 975]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+    975 37.029578   138.59.102.27         172.27.37.232         HTTP     919    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 975: 919 bytes on wire (7352 bits), 919 bytes captured (7352 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 169676, Ack: 7318, Len: 863
+[6 Reassembled TCP Segments (8103 bytes): #968(1448), #969(1448), #971(1448), #972(1448), #974(1448), #975(863)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:14 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Mon, 30 Apr 2007 14:08:44 GMT\r\n
+    ETag: "cc05f-1e70-5ddf300"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 7792\r\n
+    Keep-Alive: timeout=15, max=86\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 15/24]
+    [Time since request: 0.302531000 seconds]
+    [Prev request in frame: 937]
+    [Prev response in frame: 955]
+    [Request in frame: 957]
+    [Next request in frame: 977]
+    [Next response in frame: 995]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+    995 37.319285   138.59.102.27         172.27.37.232         HTTP     431    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 995: 431 bytes on wire (3448 bits), 431 bytes captured (3448 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 180675, Ack: 7793, Len: 375
+[8 Reassembled TCP Segments (10511 bytes): #988(1448), #989(1448), #990(1448), #991(1448), #992(1448), #993(1448), #994(1448), #995(375)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:15 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Mon, 30 Apr 2007 14:08:43 GMT\r\n
+    ETag: "cc05e-27d7-5ceb0c0"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 10199\r\n
+    Keep-Alive: timeout=15, max=85\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 16/24]
+    [Time since request: 0.289430000 seconds]
+    [Prev request in frame: 957]
+    [Prev response in frame: 975]
+    [Request in frame: 977]
+    [Next request in frame: 997]
+    [Next response in frame: 1015]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1015 37.629071   138.59.102.27         172.27.37.232         HTTP     1432   HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1015: 1432 bytes on wire (11456 bits), 1432 bytes captured (11456 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 189738, Ack: 8270, Len: 1376
+[7 Reassembled TCP Segments (10064 bytes): #1007(1448), #1008(1448), #1010(1448), #1011(1448), #1013(1448), #1014(1448), #1015(1376)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:15 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Mon, 30 Apr 2007 14:08:42 GMT\r\n
+    ETag: "2a016d-2618-5bf6e80"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 9752\r\n
+    Keep-Alive: timeout=15, max=84\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 17/24]
+    [Time since request: 0.293715000 seconds]
+    [Prev request in frame: 977]
+    [Prev response in frame: 995]
+    [Request in frame: 997]
+    [Next request in frame: 1017]
+    [Next response in frame: 1036]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1021 37.797845   138.59.102.27         172.27.37.232         HTTP     1504   [TCP Retransmission] HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1021: 1504 bytes on wire (12032 bits), 1504 bytes captured (12032 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58296 (58296), Seq: 66655, Ack: 3391, Len: 1448
+[7 Reassembled TCP Segments (8854 bytes): #943(1448), #944(1448), #946(1448), #1000(1448), #960(1448), #1021(1448), #985(166)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:14 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Fri, 04 May 2007 16:31:38 GMT\r\n
+    ETag: "cc066-215e-7c484e80"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 8542\r\n
+    Keep-Alive: timeout=15, max=94\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 7/9]
+    [Time since request: 1.440183000 seconds]
+    [Prev request in frame: 832]
+    [Prev response in frame: 924]
+    [Request in frame: 926]
+    [Next request in frame: 1023]
+    [Next response in frame: 1103]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1036 37.932058   138.59.102.27         172.27.37.232         HTTP     571    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1036: 571 bytes on wire (4568 bits), 571 bytes captured (4568 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 199802, Ack: 8745, Len: 515
+[7 Reassembled TCP Segments (9203 bytes): #1030(1448), #1031(1448), #1032(1448), #1033(1448), #1034(1448), #1035(1448), #1036(515)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:15 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Mon, 30 Apr 2007 14:30:56 GMT\r\n
+    ETag: "cc060-22bb-5542a800"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 8891\r\n
+    Keep-Alive: timeout=15, max=83\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 18/24]
+    [Time since request: 0.300099000 seconds]
+    [Prev request in frame: 997]
+    [Prev response in frame: 1015]
+    [Request in frame: 1017]
+    [Next request in frame: 1038]
+    [Next response in frame: 1060]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1042 38.057515   155.231.237.70        172.27.37.232         HTTP     1185   HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 1042: 1185 bytes on wire (9480 bits), 1185 bytes captured (9480 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.231.237.70 (155.231.237.70), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58300 (58300), Seq: 1, Ack: 758, Len: 1129
+Hypertext Transfer Protocol
+    HTTP/1.1 301 Moved Permanently\r\n
+    Date: Fri, 04 May 2007 21:34:15 GMT\r\n
+    Server: Apache/1.3.33 (Debian GNU/Linux) PHP/4.3.10-20\r\n
+     [truncated]Location: http://www2.one.com/bannere/se/140x350-se.swf?clickTag=http%3A//ad.se.doubleclick.net/click%253Bh%3Dv8/3548/3/0/%252a/e%253B73870690%253B0-0%253B0%253B15173098%253B525-140/350%253B19943852/19961746/1%253B%253B%257Essc
+    Connection: close\r\n
+    Transfer-Encoding: chunked\r\n
+    Content-Type: text/html; charset=iso-8859-1\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.166599000 seconds]
+    [Request in frame: 1029]
+    HTTP chunked response
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   1060 38.246980   138.59.102.27         172.27.37.232         HTTP     560    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1060: 560 bytes on wire (4480 bits), 560 bytes captured (4480 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 209005, Ack: 9228, Len: 504
+[7 Reassembled TCP Segments (9192 bytes): #1052(1448), #1053(1448), #1055(1448), #1056(1448), #1058(1448), #1059(1448), #1060(504)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:15 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Thu, 26 Apr 2007 15:33:18 GMT\r\n
+    ETag: "cc05c-22b0-bcef8b80"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 8880\r\n
+    Keep-Alive: timeout=15, max=82\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 19/24]
+    [Time since request: 0.302721000 seconds]
+    [Prev request in frame: 1017]
+    [Prev response in frame: 1036]
+    [Request in frame: 1038]
+    [Next request in frame: 1062]
+    [Next response in frame: 1084]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1084 38.547734   138.59.102.27         172.27.37.232         HTTP     1405   HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1084: 1405 bytes on wire (11240 bits), 1405 bytes captured (11240 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 216749, Ack: 9711, Len: 1349
+[6 Reassembled TCP Segments (8589 bytes): #1079(1448), #1080(1448), #1081(1448), #1082(1448), #1083(1448), #1084(1349)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:16 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Tue, 24 Apr 2007 19:13:19 GMT\r\n
+    ETag: "cc058-2055-941811c0"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 8277\r\n
+    Keep-Alive: timeout=15, max=81\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 20/24]
+    [Time since request: 0.299179000 seconds]
+    [Prev request in frame: 1038]
+    [Prev response in frame: 1060]
+    [Request in frame: 1062]
+    [Next request in frame: 1086]
+    [Next response in frame: 1119]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1103 38.737230   138.59.102.27         172.27.37.232         HTTP     1323   HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1103: 1323 bytes on wire (10584 bits), 1323 bytes captured (10584 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58296 (58296), Seq: 75509, Ack: 3878, Len: 1267
+[6 Reassembled TCP Segments (8507 bytes): #1046(1448), #1067(1448), #1069(1448), #1099(1448), #1101(1448), #1103(1267)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:15 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Thu, 26 Apr 2007 15:29:23 GMT\r\n
+    ETag: "cc05b-2003-aeedbac0"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 8195\r\n
+    Keep-Alive: timeout=15, max=93\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 8/9]
+    [Time since request: 0.939123000 seconds]
+    [Prev request in frame: 926]
+    [Prev response in frame: 1021]
+    [Request in frame: 1023]
+    [Next request in frame: 1105]
+    [Next response in frame: 1152]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1108 38.793310   155.231.237.70        172.27.37.232         HTTP     1147   HTTP/1.1 200 OK  (application/x-shockwave-flash)
+
+Frame 1108: 1147 bytes on wire (9176 bits), 1147 bytes captured (9176 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 155.231.237.70 (155.231.237.70), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58301 (58301), Seq: 14481, Ack: 757, Len: 1091
+[11 Reassembled TCP Segments (15571 bytes): #1073(1448), #1075(1448), #1077(1448), #1087(1448), #1089(1448), #1091(1448), #1093(1448), #1095(1448), #1097(1448), #1106(1448), #1108(1091)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:16 GMT\r\n
+    Server: Apache/1.3.33 (Debian GNU/Linux) PHP/4.3.10-20\r\n
+    Last-Modified: Fri, 27 Apr 2007 08:27:17 GMT\r\n
+    ETag: "1f101847-3ba8-4631b3e5"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 15272\r\n
+    Connection: close\r\n
+    Content-Type: application/x-shockwave-flash\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.500563000 seconds]
+    [Request in frame: 1066]
+Media Type
+
+No.     Time        Source                Destination           Protocol Length Info
+   1119 38.855713   138.59.102.27         172.27.37.232         HTTP     354    HTTP/1.1 200 OK  (JPEG JFIF image)
+
+Frame 1119: 354 bytes on wire (2832 bits), 354 bytes captured (2832 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 225338, Ack: 10192, Len: 298
+[6 Reassembled TCP Segments (7538 bytes): #1112(1448), #1113(1448), #1115(1448), #1116(1448), #1118(1448), #1119(298)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:16 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Fri, 20 Apr 2007 10:55:47 GMT\r\n
+    ETag: "cc054-1c3a-296932c0"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 7226\r\n
+    Keep-Alive: timeout=15, max=80\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 21/24]
+    [Time since request: 0.299606000 seconds]
+    [Prev request in frame: 1062]
+    [Prev response in frame: 1084]
+    [Request in frame: 1086]
+    [Next request in frame: 1121]
+    [Next response in frame: 1129]
+    [Expert Info (Note/Malformed): HTTP body subdissector failed, trying heuristic subdissector]
+JPEG File Interchange Format
+
+No.     Time        Source                Destination           Protocol Length Info
+   1129 39.153033   138.59.102.27         172.27.37.232         HTTP     854    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1129: 854 bytes on wire (6832 bits), 854 bytes captured (6832 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 225636, Ack: 10672, Len: 798
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:16 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Fri, 23 Mar 2007 08:02:14 GMT\r\n
+    ETag: "2c0015-1e7-7930ed80"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 487\r\n
+    Keep-Alive: timeout=15, max=79\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 22/24]
+    [Time since request: 0.297169000 seconds]
+    [Prev request in frame: 1086]
+    [Prev response in frame: 1119]
+    [Request in frame: 1121]
+    [Next request in frame: 1130]
+    [Next response in frame: 1138]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1138 39.455166   138.59.102.27         172.27.37.232         HTTP     1369   HTTP/1.1 200 OK  (JPEG JFIF image)
+
+Frame 1138: 1369 bytes on wire (10952 bits), 1369 bytes captured (10952 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 227882, Ack: 11151, Len: 1313
+[2 Reassembled TCP Segments (2761 bytes): #1137(1448), #1138(1313)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:17 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Fri, 23 Mar 2007 08:02:14 GMT\r\n
+    ETag: "2c0008-991-7930ed80"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 2449\r\n
+    Keep-Alive: timeout=15, max=78\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 23/24]
+    [Time since request: 0.301806000 seconds]
+    [Prev request in frame: 1121]
+    [Prev response in frame: 1129]
+    [Request in frame: 1130]
+    [Next request in frame: 1140]
+    [Next response in frame: 1148]
+    [Expert Info (Note/Malformed): HTTP body subdissector failed, trying heuristic subdissector]
+JPEG File Interchange Format
+
+No.     Time        Source                Destination           Protocol Length Info
+   1148 39.756261   138.59.102.27         172.27.37.232         HTTP     720    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1148: 720 bytes on wire (5760 bits), 720 bytes captured (5760 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58295 (58295), Seq: 229195, Ack: 11626, Len: 664
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:17 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Sat, 29 Jul 2006 22:05:45 GMT\r\n
+    ETag: "2a0006-161-a173a040"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 353\r\n
+    Keep-Alive: timeout=15, max=77\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 24/24]
+    [Time since request: 0.297616000 seconds]
+    [Prev request in frame: 1130]
+    [Prev response in frame: 1138]
+    [Request in frame: 1140]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1152 39.955534   138.59.102.27         172.27.37.232         HTTP     581    HTTP/1.1 200 OK  (JPEG JFIF image)
+
+Frame 1152: 581 bytes on wire (4648 bits), 581 bytes captured (4648 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 138.59.102.27 (138.59.102.27), Dst: 172.27.37.232 (172.27.37.232)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58296 (58296), Seq: 91256, Ack: 4352, Len: 525
+[11 Reassembled TCP Segments (15005 bytes): #1124(1448), #1125(1448), #1126(1448), #1131(1448), #1132(1448), #1134(1448), #1142(1448), #1144(1448), #1146(1448), #1151(1448), #1152(525)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:16 GMT\r\n
+    Server: Apache/2.0.54 (Debian GNU/Linux) PHP/4.3.10-18\r\n
+    Last-Modified: Fri, 01 Dec 2006 09:04:13 GMT\r\n
+    ETag: "29cb38-3963-48a25d40"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 14691\r\n
+    Keep-Alive: timeout=15, max=92\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 9/9]
+    [Time since request: 1.216905000 seconds]
+    [Prev request in frame: 1023]
+    [Prev response in frame: 1103]
+    [Request in frame: 1105]
+    [Expert Info (Note/Malformed): HTTP body subdissector failed, trying heuristic subdissector]
+JPEG File Interchange Format
+
+No.     Time        Source                Destination           Protocol Length Info
+   1267 45.367768   248.78.109.66         205.232.201.195       HTTP     1487   HTTP/1.1 200 OK  (text/html)
+
+Frame 1267: 1487 bytes on wire (11896 bits), 1487 bytes captured (11896 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46858 (46858), Seq: 12992, Ack: 485, Len: 1431
+[12 Reassembled TCP Segments (14422 bytes): #1241(1448), #1242(407), #1246(1448), #1248(1448), #1249(1448), #1251(784), #1253(1448), #1254(456), #1260(1448), #1262(1448), #1264(1208), #1267(1431)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:23 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Connection: close\r\n
+    Transfer-Encoding: chunked\r\n
+    Content-Type: text/html\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.120364000 seconds]
+    [Request in frame: 1239]
+    HTTP chunked response
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   1271 45.396120   248.78.109.66         205.232.201.195       HTTP     1043   HTTP/1.1 200 OK  (text/css)
+
+Frame 1271: 1043 bytes on wire (8344 bits), 1043 bytes captured (8344 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46859 (46859), Seq: 1, Ack: 414, Len: 987
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:23 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Mon, 29 Nov 2004 21:45:13 GMT\r\n
+    ETag: "1a0e24-2b8-41ab9869"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 696\r\n
+    Connection: close\r\n
+    Content-Type: text/css\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.028685000 seconds]
+    [Request in frame: 1266]
+Line-based text data: text/css
+
+No.     Time        Source                Destination           Protocol Length Info
+   1304 45.729773   248.78.109.66         205.232.201.195       HTTP     144    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1304: 144 bytes on wire (1152 bits), 144 bytes captured (1152 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46860 (46860), Seq: 13033, Ack: 423, Len: 88
+[10 Reassembled TCP Segments (13120 bytes): #1282(1448), #1283(1448), #1286(1448), #1291(1448), #1292(1448), #1295(1448), #1296(1448), #1298(1448), #1301(1448), #1304(88)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:23 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Fri, 27 Aug 2004 21:06:14 GMT\r\n
+    ETag: "159b5c-3219-412fa246"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 12825\r\n
+    Connection: close\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.055596000 seconds]
+    [Request in frame: 1279]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1309 45.731313   248.78.109.66         205.232.201.195       HTTP     534    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1309: 534 bytes on wire (4272 bits), 534 bytes captured (4272 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46861 (46861), Seq: 2897, Ack: 423, Len: 478
+[3 Reassembled TCP Segments (3374 bytes): #1306(1448), #1307(1448), #1309(478)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:23 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Wed, 01 Sep 2004 17:36:29 GMT\r\n
+    ETag: "159b5d-c09-4136089d"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 3081\r\n
+    Connection: close\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.025102000 seconds]
+    [Request in frame: 1290]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1324 45.879114   248.78.109.66         205.232.201.195       HTTP     1066   HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1324: 1066 bytes on wire (8528 bits), 1066 bytes captured (8528 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46863 (46863), Seq: 1, Ack: 420, Len: 1010
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:23 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Wed, 18 Aug 2004 22:36:58 GMT\r\n
+    ETag: "159b61-2ce-4123da0a"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 718\r\n
+    Connection: close\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.023073000 seconds]
+    [Request in frame: 1322]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1337 45.918172   248.78.109.66         205.232.201.195       HTTP     1055   HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1337: 1055 bytes on wire (8440 bits), 1055 bytes captured (8440 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46864 (46864), Seq: 2897, Ack: 420, Len: 999
+[3 Reassembled TCP Segments (3895 bytes): #1334(1448), #1336(1448), #1337(999)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:23 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Fri, 03 Sep 2004 16:27:45 GMT\r\n
+    ETag: "159bc5-e12-41389b81"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 3602\r\n
+    Connection: close\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.023774000 seconds]
+    [Request in frame: 1332]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1351 45.964200   248.78.109.66         205.232.201.195       HTTP     89     HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1351: 89 bytes on wire (712 bits), 89 bytes captured (712 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46865 (46865), Seq: 2897, Ack: 420, Len: 33
+[3 Reassembled TCP Segments (2929 bytes): #1348(1448), #1350(1448), #1351(33)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:23 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Wed, 10 Nov 2004 22:46:30 GMT\r\n
+    ETag: "159be4-a4c-41929a46"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 2636\r\n
+    Connection: close\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.025806000 seconds]
+    [Request in frame: 1346]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1365 46.052065   248.78.109.66         205.232.201.195       HTTP     207    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1365: 207 bytes on wire (1656 bits), 207 bytes captured (1656 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46866 (46866), Seq: 2897, Ack: 421, Len: 151
+[3 Reassembled TCP Segments (3047 bytes): #1362(1448), #1363(1448), #1365(151)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:23 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Fri, 03 Sep 2004 16:24:51 GMT\r\n
+    ETag: "159bc6-ac2-41389ad3"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 2754\r\n
+    Connection: close\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.029541000 seconds]
+    [Request in frame: 1360]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1379 46.076597   248.78.109.66         205.232.201.195       HTTP     778    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1379: 778 bytes on wire (6224 bits), 778 bytes captured (6224 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46867 (46867), Seq: 1449, Ack: 421, Len: 722
+[2 Reassembled TCP Segments (2170 bytes): #1378(1448), #1379(722)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:23 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Thu, 02 Dec 2004 22:17:34 GMT\r\n
+    ETag: "159be7-755-41af947e"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 1877\r\n
+    Connection: close\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.014878000 seconds]
+    [Request in frame: 1376]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1391 46.117041   248.78.109.66         205.232.201.195       HTTP     448    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1391: 448 bytes on wire (3584 bits), 448 bytes captured (3584 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46868 (46868), Seq: 1449, Ack: 419, Len: 392
+[2 Reassembled TCP Segments (1840 bytes): #1390(1448), #1391(392)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:23 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Fri, 28 May 2004 16:40:13 GMT\r\n
+    ETag: "159b53-60b-40b76b6d"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 1547\r\n
+    Connection: close\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.023856000 seconds]
+    [Request in frame: 1388]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1406 46.226525   248.78.109.66         205.232.201.195       HTTP     173    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1406: 173 bytes on wire (1384 bits), 173 bytes captured (1384 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46869 (46869), Seq: 2897, Ack: 423, Len: 117
+[3 Reassembled TCP Segments (3013 bytes): #1403(1448), #1405(1448), #1406(117)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:24 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Thu, 19 Aug 2004 17:55:08 GMT\r\n
+    ETag: "159b5f-aa0-4124e97c"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 2720\r\n
+    Connection: close\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.034231000 seconds]
+    [Request in frame: 1401]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1419 46.263393   248.78.109.66         205.232.201.195       HTTP     1091   HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1419: 1091 bytes on wire (8728 bits), 1091 bytes captured (8728 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46870 (46870), Seq: 1449, Ack: 420, Len: 1035
+[2 Reassembled TCP Segments (2483 bytes): #1417(1448), #1419(1035)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:24 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Wed, 10 Nov 2004 22:44:05 GMT\r\n
+    ETag: "159be5-88e-419299b5"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 2190\r\n
+    Connection: close\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.022694000 seconds]
+    [Request in frame: 1415]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1431 46.302145   248.78.109.66         205.232.201.195       HTTP     487    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1431: 487 bytes on wire (3896 bits), 487 bytes captured (3896 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46871 (46871), Seq: 1449, Ack: 420, Len: 431
+[2 Reassembled TCP Segments (1879 bytes): #1429(1448), #1431(431)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:24 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Wed, 29 Sep 2004 20:26:08 GMT\r\n
+    ETag: "159bc8-632-415b1a60"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 1586\r\n
+    Connection: close\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.022444000 seconds]
+    [Request in frame: 1427]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1442 46.395472   248.78.109.66         205.232.201.195       HTTP     796    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1442: 796 bytes on wire (6368 bits), 796 bytes captured (6368 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46872 (46872), Seq: 1449, Ack: 424, Len: 740
+[2 Reassembled TCP Segments (2188 bytes): #1441(1448), #1442(740)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:24 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Wed, 29 Sep 2004 20:26:08 GMT\r\n
+    ETag: "159bcf-767-415b1a60"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 1895\r\n
+    Connection: close\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.023249000 seconds]
+    [Request in frame: 1439]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1453 46.442280   248.78.109.66         205.232.201.195       HTTP     414    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1453: 414 bytes on wire (3312 bits), 414 bytes captured (3312 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46873 (46873), Seq: 1, Ack: 422, Len: 358
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:24 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Wed, 18 Aug 2004 22:36:59 GMT\r\n
+    ETag: "159ba8-44-4123da0b"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 68\r\n
+    Connection: close\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.022969000 seconds]
+    [Request in frame: 1451]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1463 46.479900   248.78.109.66         205.232.201.195       HTTP     553    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1463: 553 bytes on wire (4424 bits), 553 bytes captured (4424 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46874 (46874), Seq: 1, Ack: 422, Len: 497
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:24 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Thu, 19 Aug 2004 17:36:30 GMT\r\n
+    ETag: "159b64-ce-4124e51e"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 206\r\n
+    Connection: close\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.018135000 seconds]
+    [Request in frame: 1461]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1475 46.683755   248.78.109.66         205.232.201.195       HTTP     1458   HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1475: 1458 bytes on wire (11664 bits), 1458 bytes captured (11664 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46875 (46875), Seq: 1449, Ack: 417, Len: 1402
+[2 Reassembled TCP Segments (2850 bytes): #1473(1448), #1475(1402)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:24 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Wed, 29 Sep 2004 20:26:08 GMT\r\n
+    ETag: "159bd0-9fd-415b1a60"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 2557\r\n
+    Connection: close\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.021725000 seconds]
+    [Request in frame: 1471]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1491 46.724858   248.78.109.66         205.232.201.195       HTTP     143    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1491: 143 bytes on wire (1144 bits), 143 bytes captured (1144 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46876 (46876), Seq: 1449, Ack: 419, Len: 87
+[2 Reassembled TCP Segments (1535 bytes): #1490(1448), #1491(87)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:24 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Thu, 18 Nov 2004 16:41:10 GMT\r\n
+    ETag: "159bd1-4da-419cd0a6"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 1242\r\n
+    Connection: close\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.021991000 seconds]
+    [Request in frame: 1484]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1504 46.765728   248.78.109.66         205.232.201.195       HTTP     217    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1504: 217 bytes on wire (1736 bits), 217 bytes captured (1736 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46877 (46877), Seq: 1449, Ack: 423, Len: 161
+[2 Reassembled TCP Segments (1609 bytes): #1503(1448), #1504(161)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:24 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Fri, 22 Oct 2004 22:37:07 GMT\r\n
+    ETag: "159bd9-524-41798b93"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 1316\r\n
+    Connection: close\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.024980000 seconds]
+    [Request in frame: 1501]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1521 46.847426   248.78.109.66         205.232.201.195       HTTP     241    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1521: 241 bytes on wire (1928 bits), 241 bytes captured (1928 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46878 (46878), Seq: 2897, Ack: 431, Len: 185
+[3 Reassembled TCP Segments (3081 bytes): #1518(1448), #1520(1448), #1521(185)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:24 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Tue, 19 Oct 2004 17:53:38 GMT\r\n
+    ETag: "159bd7-ae4-417554a2"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 2788\r\n
+    Connection: close\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.015480000 seconds]
+    [Request in frame: 1516]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1532 46.895386   248.78.109.66         205.232.201.195       HTTP     454    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1532: 454 bytes on wire (3632 bits), 454 bytes captured (3632 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46879 (46879), Seq: 1, Ack: 414, Len: 398
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:24 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Tue, 06 Nov 2001 17:23:54 GMT\r\n
+    ETag: "6eb87-6c-3be81caa"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 108\r\n
+    Connection: close\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.015711000 seconds]
+    [Request in frame: 1530]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1565 48.803441   248.78.109.66         205.232.201.195       HTTP     388    HTTP/1.1 200 OK  (GIF89a)
+
+Frame 1565: 388 bytes on wire (3104 bits), 388 bytes captured (3104 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46862 (46862), Seq: 1, Ack: 414, Len: 332
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:26 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Mon, 11 Sep 2000 23:23:45 GMT\r\n
+    ETag: "6eb0c-2b-39bd6981"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 43\r\n
+    Connection: close\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.027957000 seconds]
+    [Request in frame: 1562]
+Compuserve GIF, Version: GIF89a
+
+No.     Time        Source                Destination           Protocol Length Info
+   1581 48.950790   248.78.109.66         205.232.201.195       HTTP     1371   HTTP/1.1 200 OK  (text/plain)
+
+Frame 1581: 1371 bytes on wire (10968 bits), 1371 bytes captured (10968 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 248.78.109.66 (248.78.109.66), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 46880 (46880), Seq: 1, Ack: 356, Len: 1315
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:26 GMT\r\n
+    Server: Apache/1.3.29 (Unix) mod_perl/1.29 mod_ssl/2.8.16 OpenSSL/0.9.7d\r\n
+    Last-Modified: Fri, 05 Jul 2002 16:35:19 GMT\r\n
+    ETag: "fa160-3fe-3d25cac7"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 1022\r\n
+    Connection: close\r\n
+    Content-Type: text/plain\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.023409000 seconds]
+    [Request in frame: 1579]
+Line-based text data: text/plain
+
+No.     Time        Source                Destination           Protocol Length Info
+   1842 80.409529   251.235.172.148       205.232.201.195       HTTP     279    HTTP/1.1 200 OK  (text/html)
+
+Frame 1842: 279 bytes on wire (2232 bits), 279 bytes captured (2232 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 251.235.172.148 (251.235.172.148), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 48580 (48580), Seq: 14481, Ack: 482, Len: 223
+[11 Reassembled TCP Segments (14703 bytes): #1822(1448), #1823(1448), #1825(1448), #1829(1448), #1830(1448), #1833(1448), #1834(1448), #1835(1448), #1836(1448), #1841(1448), #1842(223)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:34:58 GMT\r\n
+    Server: Apache/1.3.33 (Unix) mod_ssl/2.8.22 OpenSSL/0.9.7e PHP/4.3.11\r\n
+    Last-Modified: Mon, 20 Nov 2006 15:45:19 GMT\r\n
+    ETag: "248bc2-3825-4561cd8f"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 14373\r\n
+    Keep-Alive: timeout=15, max=100\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: text/html\r\n
+    \r\n
+    [HTTP response 1/2]
+    [Time since request: 0.278250000 seconds]
+    [Request in frame: 1819]
+    [Next request in frame: 1855]
+    [Next response in frame: 1857]
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   1857 81.427550   251.235.172.148       205.232.201.195       HTTP     758    HTTP/1.1 404 Not Found  (text/html)
+
+Frame 1857: 758 bytes on wire (6064 bits), 758 bytes captured (6064 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 251.235.172.148 (251.235.172.148), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 48580 (48580), Seq: 14704, Ack: 831, Len: 702
+Hypertext Transfer Protocol
+    HTTP/1.1 404 Not Found\r\n
+    Date: Fri, 04 May 2007 21:34:59 GMT\r\n
+    Server: Apache/1.3.33 (Unix) mod_ssl/2.8.22 OpenSSL/0.9.7e PHP/4.3.11\r\n
+    Keep-Alive: timeout=15, max=98\r\n
+    Connection: Keep-Alive\r\n
+    Transfer-Encoding: chunked\r\n
+    Content-Type: text/html; charset=iso-8859-1\r\n
+    \r\n
+    [HTTP response 2/2]
+    [Time since request: 0.098899000 seconds]
+    [Prev request in frame: 1819]
+    [Prev response in frame: 1842]
+    [Request in frame: 1855]
+    HTTP chunked response
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   2504 107.144653  205.232.201.218       33.92.125.147         HTTP     413    HTTP/1.1 200 OK  (text/plain)
+
+Frame 2504: 413 bytes on wire (3304 bits), 413 bytes captured (3304 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 205.232.201.218 (205.232.201.218), Dst: 33.92.125.147 (33.92.125.147)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 62060 (62060), Seq: 1, Ack: 256, Len: 357
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:35:23 GMT\r\n
+    Server: Apache/1.3.28 (Debian GNU/Linux)\r\n
+    Last-Modified: Wed, 08 Mar 2006 01:32:51 GMT\r\n
+    ETag: "2fdda-29-440e3443"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 41\r\n
+    Keep-Alive: timeout=15, max=100\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: text/plain; charset=iso-8859-1\r\n
+    \r\n
+    [HTTP response 1/2]
+    [Time since request: 0.001180000 seconds]
+    [Request in frame: 2502]
+    [Next request in frame: 2521]
+    [Next response in frame: 2536]
+Line-based text data: text/plain
+
+No.     Time        Source                Destination           Protocol Length Info
+   2536 107.267228  205.232.201.218       33.92.125.147         HTTP     625    HTTP/1.1 404 Not Found  (text/html)
+
+Frame 2536: 625 bytes on wire (5000 bits), 625 bytes captured (5000 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 205.232.201.218 (205.232.201.218), Dst: 33.92.125.147 (33.92.125.147)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 62060 (62060), Seq: 358, Ack: 536, Len: 569
+Hypertext Transfer Protocol
+    HTTP/1.1 404 Not Found\r\n
+    Date: Fri, 04 May 2007 21:35:23 GMT\r\n
+    Server: Apache/1.3.28 (Debian GNU/Linux)\r\n
+    Keep-Alive: timeout=15, max=99\r\n
+    Connection: Keep-Alive\r\n
+    Transfer-Encoding: chunked\r\n
+    Content-Type: text/html; charset=iso-8859-1\r\n
+    \r\n
+    [HTTP response 2/2]
+    [Time since request: 0.045195000 seconds]
+    [Prev request in frame: 2502]
+    [Prev response in frame: 2504]
+    [Request in frame: 2521]
+    HTTP chunked response
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   3653 207.009028  93.199.112.45         205.232.201.195       HTTP     1315   HTTP/1.1 200 OK  (text/html)
+
+Frame 3653: 1315 bytes on wire (10520 bits), 1315 bytes captured (10520 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 93.199.112.45 (93.199.112.45), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 33297 (33297), Seq: 6105, Ack: 492, Len: 1259
+[6 Reassembled TCP Segments (7363 bytes): #3645(312), #3647(1448), #3649(1448), #3650(1448), #3652(1448), #3653(1259)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:37:04 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    Last-Modified: Tue, 24 Apr 2007 20:38:01 GMT\r\n
+    ETag: "21740ce-1b8b-c3013c40"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 7051\r\n
+    Keep-Alive: timeout=15, max=100\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: text/html; charset=ISO-8859-1\r\n
+    \r\n
+    [HTTP response 1/6]
+    [Time since request: 0.151068000 seconds]
+    [Request in frame: 3643]
+    [Next request in frame: 3822]
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   3805 208.158640  143.179.11.189        251.215.76.253        HTTP     770    HTTP/1.1 200 OK  (image/gif)
+
+Frame 3805: 770 bytes on wire (6160 bits), 770 bytes captured (6160 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 143.179.11.189 (143.179.11.189), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 52000 (52000), Seq: 1, Ack: 497, Len: 726
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Wed, 17 Mar 2010 23:39:09 GMT\r\n
+    Server: Apache/1.3.33 (Unix)\r\n
+    Set-Cookie: up=A3HNb91eOkWA03xz; domain=.nytimes.com; path=/; expires=Sat, 19-Nov-22 14:45:48 GMT\r\n
+    Set-Cookie: ups=A3HNb91eOkWA03xz; domain=.nytimes.com; path=/; expires=Thu, 18-Mar-10 00:09:09 GMT\r\n
+    Set-Cookie: zFN=A3H10A30110A00101; domain=.nytimes.com; path=/; expires=Thu, 23-Jun-11 22:45:48 GMT\r\n
+    Set-Cookie: zFD=A3H10A30110A00101; domain=.nytimes.com; path=/; expires=Thu, 23-Jun-11 22:45:48 GMT\r\n
+    P3P: CP="IDC DSP COR DEVa TAIa OUR BUS UNI"\r\n
+    Cache-Control: max-age=0\r\n
+    Expires: Wed, 17 Mar 2010 23:39:09 GMT\r\n
+    Keep-Alive: timeout=15, max=23\r\n
+    Connection: Keep-Alive\r\n
+    Transfer-Encoding: chunked\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 1/2]
+    [Time since request: 0.006711000 seconds]
+    [Request in frame: 3800]
+    [Next request in frame: 4143]
+    [Next response in frame: 4145]
+    HTTP chunked response
+    [Expert Info (Note/Malformed): HTTP body subdissector failed, trying heuristic subdissector]
+Media Type
+
+No.     Time        Source                Destination           Protocol Length Info
+   3842 209.838994  93.199.112.45         205.232.201.195       HTTP     961    HTTP/1.1 200 OK  (text/css)
+
+Frame 3842: 961 bytes on wire (7688 bits), 961 bytes captured (7688 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 93.199.112.45 (93.199.112.45), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 33297 (33297), Seq: 19207, Ack: 1397, Len: 905
+[3 Reassembled TCP Segments (3801 bytes): #3840(1448), #3841(1448), #3842(905)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:37:07 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    Last-Modified: Fri, 01 Sep 2006 06:28:28 GMT\r\n
+    ETag: "21e8c41-db8-8011db00"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 3512\r\n
+    Keep-Alive: timeout=15, max=98\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: text/css\r\n
+    \r\n
+    [HTTP response 3/6]
+    [Time since request: 0.075736000 seconds]
+    [Prev request in frame: 3822]
+    [Request in frame: 3838]
+    [Next request in frame: 3846]
+    [Next response in frame: 3920]
+Line-based text data: text/css
+
+No.     Time        Source                Destination           Protocol Length Info
+   3920 210.330292  93.199.112.45         205.232.201.195       HTTP     1504   [TCP Out-Of-Order] HTTP/1.1 200 OK  (JPEG JFIF image)
+
+Frame 3920: 1504 bytes on wire (12032 bits), 1504 bytes captured (12032 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 93.199.112.45 (93.199.112.45), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 33297 (33297), Seq: 66741, Ack: 1822, Len: 1448
+[35 Reassembled TCP Segments (48279 bytes): #3848(293), #3850(1448), #3851(1448), #3853(1448), #3859(1448), #3860(1448), #3861(1448), #3864(1448), #3865(1448), #3869(1448), #3870(1448), #3878(1448), #3879(1448), #3880(1448), #3882(1448), #3]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:37:07 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    Last-Modified: Sun, 05 Mar 2006 18:50:18 GMT\r\n
+    ETag: "21e8b85-bb72-e1a30e80"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 47986\r\n
+    Keep-Alive: timeout=15, max=97\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/jpeg\r\n
+    \r\n
+    [HTTP response 4/6]
+    [Time since request: 0.302164000 seconds]
+    [Prev request in frame: 3838]
+    [Prev response in frame: 3842]
+    [Request in frame: 3846]
+    [Next request in frame: 3923]
+    [Next response in frame: 3946]
+JPEG File Interchange Format
+
+No.     Time        Source                Destination           Protocol Length Info
+   3946 210.406627  93.199.112.45         205.232.201.195       HTTP     1504   [TCP Out-Of-Order] HTTP/1.1 200 OK  (JPEG JFIF image)
+
+Frame 3946: 1504 bytes on wire (12032 bits), 1504 bytes captured (12032 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 93.199.112.45 (93.199.112.45), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 33297 (33297), Seq: 81423, Ack: 2271, Len: 1448
+[11 Reassembled TCP Segments (14840 bytes): #3936(1448), #3937(1448), #3938(1448), #3939(1448), #3940(1448), #3941(1448), #3942(1448), #3943(1448), #3944(1448), #3946(1448), #3945(360)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:37:08 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    Last-Modified: Sun, 05 Mar 2006 18:50:18 GMT\r\n
+    ETag: "21e8b93-38d3-e1a30e80"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 14547\r\n
+    Keep-Alive: timeout=15, max=96\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/jpeg\r\n
+    \r\n
+    [HTTP response 5/6]
+    [Time since request: 0.076110000 seconds]
+    [Prev request in frame: 3846]
+    [Prev response in frame: 3920]
+    [Request in frame: 3923]
+    [Next request in frame: 3988]
+    [Next response in frame: 3989]
+JPEG File Interchange Format
+
+No.     Time        Source                Destination           Protocol Length Info
+   3970 210.516608  93.199.112.45         205.232.201.195       HTTP     1504   [TCP Out-Of-Order] HTTP/1.1 200 OK  (JPEG JFIF image)
+
+Frame 3970: 1504 bytes on wire (12032 bits), 1504 bytes captured (12032 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 93.199.112.45 (93.199.112.45), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 33298 (33298), Seq: 30703, Ack: 424, Len: 1448
+[24 Reassembled TCP Segments (32505 bytes): #3874(294), #3876(1448), #3898(1448), #3899(1448), #3900(1448), #3903(1448), #3924(1448), #3925(1448), #3927(1448), #3928(1448), #3929(1448), #3930(1448), #3951(1448), #3952(1448), #3954(1448), #3]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:37:08 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    Last-Modified: Tue, 05 Sep 2006 22:23:02 GMT\r\n
+    ETag: "21e8b92-7dd3-4d3b3d80"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 32211\r\n
+    Keep-Alive: timeout=15, max=100\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/jpeg\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.375193000 seconds]
+    [Request in frame: 3858]
+JPEG File Interchange Format
+
+No.     Time        Source                Destination           Protocol Length Info
+   3989 211.047472  93.199.112.45         205.232.201.195       HTTP/XML 1464   HTTP/1.1 404 Not Found 
+
+Frame 3989: 1464 bytes on wire (11712 bits), 1464 bytes captured (11712 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 93.199.112.45 (93.199.112.45), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 33297 (33297), Seq: 83231, Ack: 2627, Len: 1408
+Hypertext Transfer Protocol
+    HTTP/1.1 404 Not Found\r\n
+    Date: Fri, 04 May 2007 21:37:08 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    Vary: accept-language,accept-charset\r\n
+    Accept-Ranges: bytes\r\n
+    Keep-Alive: timeout=15, max=95\r\n
+    Connection: Keep-Alive\r\n
+    Transfer-Encoding: chunked\r\n
+    Content-Type: text/html; charset=iso-8859-1\r\n
+    Content-Language: en\r\n
+    \r\n
+    [HTTP response 6/6]
+    [Time since request: 0.076331000 seconds]
+    [Prev request in frame: 3923]
+    [Prev response in frame: 3946]
+    [Request in frame: 3988]
+    HTTP chunked response
+eXtensible Markup Language
+
+No.     Time        Source                Destination           Protocol Length Info
+   4101 211.997998  142.165.192.177       251.215.76.253        HTTP     481    HTTP/1.1 302 Found  (text/html)
+
+Frame 4101: 481 bytes on wire (3848 bits), 481 bytes captured (3848 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 142.165.192.177 (142.165.192.177), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58749 (58749), Seq: 1, Ack: 486, Len: 425
+Hypertext Transfer Protocol
+    HTTP/1.1 302 Found\r\n
+    Date: Wed, 17 Mar 2010 23:38:13 GMT\r\n
+    Server: Apache/2.2.10 (Linux/SUSE)\r\n
+    Location: /event\r\n
+    Content-Length: 190\r\n
+    Keep-Alive: timeout=3, max=100\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: text/html; charset=iso-8859-1\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.080707000 seconds]
+    [Request in frame: 4100]
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   4145 212.338503  143.179.11.189        251.215.76.253        HTTP     571    HTTP/1.1 200 OK  (image/gif)
+
+Frame 4145: 571 bytes on wire (4568 bits), 571 bytes captured (4568 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 143.179.11.189 (143.179.11.189), Dst: 251.215.76.253 (251.215.76.253)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 52000 (52000), Seq: 727, Ack: 1082, Len: 527
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Wed, 17 Mar 2010 23:39:13 GMT\r\n
+    Server: Apache/1.3.33 (Unix)\r\n
+    Set-Cookie: zFN=A3H20A30210A00201; domain=.nytimes.com; path=/; expires=Thu, 23-Jun-11 22:45:52 GMT\r\n
+    Set-Cookie: zFD=A3H20A30210A00201; domain=.nytimes.com; path=/; expires=Thu, 23-Jun-11 22:45:52 GMT\r\n
+    P3P: CP="IDC DSP COR DEVa TAIa OUR BUS UNI"\r\n
+    Cache-Control: max-age=0\r\n
+    Expires: Wed, 17 Mar 2010 23:39:13 GMT\r\n
+    Keep-Alive: timeout=15, max=69\r\n
+    Connection: Keep-Alive\r\n
+    Transfer-Encoding: chunked\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 2/2]
+    [Time since request: 0.005503000 seconds]
+    [Prev request in frame: 3800]
+    [Prev response in frame: 3805]
+    [Request in frame: 4143]
+    HTTP chunked response
+    [Expert Info (Note/Malformed): HTTP body subdissector failed, trying heuristic subdissector]
+Media Type
+
+No.     Time        Source                Destination           Protocol Length Info
+   4991 238.332868  159.79.22.194         42.9.203.117          HTTP     395    HTTP/1.1 404 Not Found  (text/html)
+
+Frame 4991: 395 bytes on wire (3160 bits), 395 bytes captured (3160 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.194 (159.79.22.194), Dst: 42.9.203.117 (42.9.203.117)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 41520 (41520), Seq: 7241, Ack: 196, Len: 339
+[6 Reassembled TCP Segments (7579 bytes): #4976(1448), #4977(1448), #4978(1448), #4989(1448), #4990(1448), #4991(339)]
+Hypertext Transfer Protocol
+    HTTP/1.1 404 Not Found\r\n
+    Date: Wed, 10 Mar 2010 13:39:20 GMT\r\n
+    Server: Apache/1.3.41 (Unix) PHP/4.4.9\r\n
+    Last-Modified: Mon, 30 Jan 2006 20:11:57 GMT\r\n
+    ETag: "43-1c8b-43de730d;4a9f133e"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 7307\r\n
+    Connection: close\r\n
+    Content-Type: text/html\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.076800000 seconds]
+    [Request in frame: 4974]
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   5003 238.395946  159.79.22.194         42.9.203.117          HTTP     395    HTTP/1.1 404 Not Found  (text/html)
+
+Frame 5003: 395 bytes on wire (3160 bits), 395 bytes captured (3160 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.194 (159.79.22.194), Dst: 42.9.203.117 (42.9.203.117)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 24945 (24945), Seq: 7241, Ack: 191, Len: 339
+[6 Reassembled TCP Segments (7579 bytes): #4983(1448), #4984(1448), #4985(1448), #5001(1448), #5002(1448), #5003(339)]
+Hypertext Transfer Protocol
+    HTTP/1.1 404 Not Found\r\n
+    Date: Wed, 10 Mar 2010 13:39:20 GMT\r\n
+    Server: Apache/1.3.41 (Unix) PHP/4.4.9\r\n
+    Last-Modified: Mon, 30 Jan 2006 20:11:57 GMT\r\n
+    ETag: "43-1c8b-43de730d;4b6369b7"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 7307\r\n
+    Connection: close\r\n
+    Content-Type: text/html\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.076841000 seconds]
+    [Request in frame: 4981]
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   5015 238.468324  159.79.22.194         42.9.203.117          HTTP     386    HTTP/1.1 404 Not Found  (text/html)
+
+Frame 5015: 386 bytes on wire (3088 bits), 386 bytes captured (3088 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.194 (159.79.22.194), Dst: 42.9.203.117 (42.9.203.117)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 41527 (41527), Seq: 7241, Ack: 223, Len: 330
+[6 Reassembled TCP Segments (7570 bytes): #4997(1448), #4999(1448), #5000(1448), #5012(1448), #5014(1448), #5015(330)]
+Hypertext Transfer Protocol
+    HTTP/1.1 404 Not Found\r\n
+    Date: Wed, 10 Mar 2010 13:39:20 GMT\r\n
+    Server: Apache/1.3.41 (Unix) PHP/4.4.9\r\n
+    Last-Modified: Mon, 30 Jan 2006 20:11:57 GMT\r\n
+    ETag: "43-1c8b-43de730d"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 7307\r\n
+    Connection: close\r\n
+    Content-Type: text/html\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.076300000 seconds]
+    [Request in frame: 4993]
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   5046 242.757563  159.79.22.198         251.215.153.250       HTTP     507    HTTP/1.1 404 Not Found  (text/html)
+
+Frame 5046: 507 bytes on wire (4056 bits), 507 bytes captured (4056 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.198 (159.79.22.198), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 55996 (55996), Seq: 1, Ack: 411, Len: 451
+Hypertext Transfer Protocol
+    HTTP/1.1 404 Not Found\r\n
+    Date: Wed, 17 Mar 2010 22:09:42 GMT\r\n
+    Server: Apache/1.3.41 (Unix)\r\n
+    Keep-Alive: timeout=15, max=99\r\n
+    Connection: Keep-Alive\r\n
+    Transfer-Encoding: chunked\r\n
+    Content-Type: text/html\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.046191000 seconds]
+    [Request in frame: 5044]
+    HTTP chunked response
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   5199 252.731542  205.234.49.157        205.232.201.195       HTTP     556    HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 5199: 556 bytes on wire (4448 bits), 556 bytes captured (4448 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 205.234.49.157 (205.234.49.157), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 51101 (51101), Seq: 2147, Ack: 1848, Len: 500
+Hypertext Transfer Protocol
+    HTTP/1.1 301 Moved Permanently\r\n
+    Date: Fri, 04 May 2007 21:37:50 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    Location: http://www.sigcomm.org/sigcomm2006/?schedule\r\n
+    Content-Length: 252\r\n
+    Content-Type: text/html; charset=iso-8859-1\r\n
+    Via: 1.1 www.acm.org\r\n
+    \r\n
+    [HTTP response 3/3]
+    [Time since request: 0.378901000 seconds]
+    [Prev request in frame: 5192]
+    [Prev response in frame: 5193]
+    [Request in frame: 5195]
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   5276 253.719456  93.199.112.45         205.232.201.195       HTTP     1504   [TCP Out-Of-Order] HTTP/1.1 200 OK  (GIF87a)
+
+Frame 5276: 1504 bytes on wire (12032 bits), 1504 bytes captured (12032 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 93.199.112.45 (93.199.112.45), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 33303 (33303), Seq: 47766, Ack: 875, Len: 1448
+[25 Reassembled TCP Segments (34667 bytes): #5232(1448), #5233(1448), #5234(1448), #5238(1448), #5239(1448), #5241(1448), #5242(1448), #5245(1448), #5249(1448), #5250(1448), #5252(1448), #5253(1448), #5254(1448), #5255(1448), #5261(1448), #]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:37:51 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    Last-Modified: Mon, 04 Sep 2006 22:22:26 GMT\r\n
+    ETag: "21f4de2-8647-2d3e8c80"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 34375\r\n
+    Keep-Alive: timeout=15, max=99\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/gif\r\n
+    \r\n
+    [HTTP response 2/4]
+    [Time since request: 0.302576000 seconds]
+    [Prev request in frame: 5204]
+    [Request in frame: 5230]
+    [Next request in frame: 5317]
+Compuserve GIF, Version: GIF87a
+
+No.     Time        Source                Destination           Protocol Length Info
+   5315 260.848310  205.232.203.30        205.232.201.195       HTTP     352    HTTP/1.1 302 Found 
+
+Frame 5315: 352 bytes on wire (2816 bits), 352 bytes captured (2816 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 205.232.203.30 (205.232.203.30), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 57675 (57675), Seq: 1, Ack: 686, Len: 296
+Hypertext Transfer Protocol
+    HTTP/1.1 302 Found\r\n
+    Date: Fri, 04 May 2007 21:37:58 GMT\r\n
+    Server: Apache/2.0.53 (Fedora)\r\n
+    X-Powered-By: PHP/4.3.11\r\n
+    Location: http://www.sigcomm.org/sigcomm2006/discussion/\r\n
+    Content-Length: 0\r\n
+    Keep-Alive: timeout=15, max=100\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: text/html; charset=ISO-8859-1\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.002285000 seconds]
+    [Request in frame: 5312]
+
+No.     Time        Source                Destination           Protocol Length Info
+   5392 261.737081  93.199.112.45         205.232.201.195       HTTP     1160   HTTP/1.1 200 OK  (text/css)
+
+Frame 5392: 1160 bytes on wire (9280 bits), 1160 bytes captured (9280 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 93.199.112.45 (93.199.112.45), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 33305 (33305), Seq: 3187, Ack: 486, Len: 1104
+[4 Reassembled TCP Segments (4290 bytes): #5387(290), #5389(1448), #5390(1448), #5392(1104)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:37:59 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    Last-Modified: Wed, 13 Dec 2006 22:08:31 GMT\r\n
+    ETag: "29ec9fe-fa0-a39af5c0"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 4000\r\n
+    Keep-Alive: timeout=15, max=100\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: text/css\r\n
+    \r\n
+    [HTTP response 1/2]
+    [Time since request: 0.076244000 seconds]
+    [Request in frame: 5359]
+    [Next request in frame: 5399]
+    [Next response in frame: 5400]
+Line-based text data: text/css
+
+No.     Time        Source                Destination           Protocol Length Info
+   5400 261.939926  93.199.112.45         205.232.201.195       HTTP     515    HTTP/1.1 200 OK  (text/css)
+
+Frame 5400: 515 bytes on wire (4120 bits), 515 bytes captured (4120 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 93.199.112.45 (93.199.112.45), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 33305 (33305), Seq: 4291, Ack: 978, Len: 459
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:37:59 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    Last-Modified: Wed, 30 Aug 2006 14:50:27 GMT\r\n
+    ETag: "29eca60-ac-479e92c0"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 172\r\n
+    Keep-Alive: timeout=15, max=99\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: text/css\r\n
+    \r\n
+    [HTTP response 2/2]
+    [Time since request: 0.075545000 seconds]
+    [Prev request in frame: 5359]
+    [Prev response in frame: 5392]
+    [Request in frame: 5399]
+Line-based text data: text/css
+
+No.     Time        Source                Destination           Protocol Length Info
+   5497 262.454604  93.199.112.45         205.232.201.195       HTTP     825    HTTP/1.1 200 OK  (JPEG JFIF image)
+
+Frame 5497: 825 bytes on wire (6600 bits), 825 bytes captured (6600 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 93.199.112.45 (93.199.112.45), Dst: 205.232.201.195 (205.232.201.195)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 33303 (33303), Seq: 168535, Ack: 1878, Len: 769
+[69 Reassembled TCP Segments (99233 bytes): #5404(1448), #5405(1448), #5408(1448), #5411(1448), #5412(1448), #5415(1448), #5416(1448), #5418(1448), #5420(1448), #5423(1448), #5424(1448), #5425(1448), #5428(1448), #5429(1448), #5431(1448), #]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:37:59 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    Last-Modified: Thu, 10 Aug 2006 13:33:38 GMT\r\n
+    ETag: "29eca04-1827b-e0135080"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 98939\r\n
+    Keep-Alive: timeout=15, max=97\r\n
+    Connection: Keep-Alive\r\n
+    Content-Type: image/jpeg\r\n
+    \r\n
+    [HTTP response 4/4]
+    [Time since request: 0.455967000 seconds]
+    [Prev request in frame: 5317]
+    [Request in frame: 5402]
+JPEG File Interchange Format
+
+No.     Time        Source                Destination           Protocol Length Info
+   5558 270.178432  205.232.201.218       44.154.102.10         HTTP     363    HTTP/1.1 200 OK  (text/plain)
+
+Frame 5558: 363 bytes on wire (2904 bits), 363 bytes captured (2904 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 205.232.201.218 (205.232.201.218), Dst: 44.154.102.10 (44.154.102.10)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 59588 (59588), Seq: 1, Ack: 200, Len: 319
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:38:06 GMT\r\n
+    Server: Apache/1.3.28 (Debian GNU/Linux)\r\n
+    Last-Modified: Wed, 08 Mar 2006 01:32:51 GMT\r\n
+    ETag: "2fdda-29-440e3443"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 41\r\n
+    Connection: close\r\n
+    Content-Type: text/plain; charset=iso-8859-1\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.001171000 seconds]
+    [Request in frame: 5556]
+Line-based text data: text/plain
+
+No.     Time        Source                Destination           Protocol Length Info
+   5716 271.030559  205.232.201.218       44.154.102.42         HTTP     50     HTTP/1.1 200 OK  (application/pdf)
+
+Frame 5716: 50 bytes on wire (400 bits), 47 bytes captured (376 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 205.232.201.218 (205.232.201.218), Dst: 44.154.102.42 (44.154.102.42)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 53706 (53706), Seq: 145295, Ack: 220, Len: 3
+[101 Reassembled TCP Segments (145297 bytes): #5572(1460), #5573(1460), #5575(1460), #5576(1460), #5578(1460), #5579(1460), #5581(1460), #5582(1460), #5584(1460), #5587(1460), #5588(1460), #5589(1460), #5590(1460), #5591(1460), #5593(1460),]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Fri, 04 May 2007 21:38:07 GMT\r\n
+    Server: Apache/1.3.28 (Debian GNU/Linux)\r\n
+    Last-Modified: Mon, 11 Aug 2003 22:28:14 GMT\r\n
+    ETag: "a7920-23683-3f38187e"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 145027\r\n
+    Connection: close\r\n
+    Content-Type: application/pdf\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.497812000 seconds]
+    [Request in frame: 5568]
+Media Type
+
+No.     Time        Source                Destination           Protocol Length Info
+   5761 276.058158  159.79.22.249         251.215.153.250       HTTP     608    HTTP/1.1 403 Forbidden  (text/html)
+
+Frame 5761: 608 bytes on wire (4864 bits), 608 bytes captured (4864 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 57699 (57699), Seq: 1, Ack: 387, Len: 552
+Hypertext Transfer Protocol
+    HTTP/1.1 403 Forbidden\r\n
+    Date: Wed, 17 Mar 2010 22:04:02 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    content-length: 303\r\n
+    proxy-connection: close\r\n
+    x-cache: MISS from bleu.ICSI.Berkeley.EDU\r\n
+    content-type: text/html; charset=iso-8859-1\r\n
+    Connection: close\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.122110000 seconds]
+    [Request in frame: 5759]
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   5800 280.357337  159.79.22.249         251.215.153.250       HTTP     554    HTTP/1.1 400 Bad Request  (text/html)
+
+Frame 5800: 554 bytes on wire (4432 bits), 554 bytes captured (4432 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58055 (58055), Seq: 1, Ack: 373, Len: 498
+Hypertext Transfer Protocol
+    HTTP/1.1 400 Bad Request\r\n
+    Date: Wed, 17 Mar 2010 22:04:07 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    Content-Length: 315\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=iso-8859-1\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.000675000 seconds]
+    [Request in frame: 5798]
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   5812 280.362936  159.79.22.249         251.215.153.250       HTTP     487    HTTP/1.1 200 OK  (text/html)
+
+Frame 5812: 487 bytes on wire (3896 bits), 487 bytes captured (3896 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 58057 (58057), Seq: 1721, Ack: 375, Len: 431
+[3 Reassembled TCP Segments (2151 bytes): #5810(272), #5811(1448), #5812(431)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Wed, 17 Mar 2010 22:04:07 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    Last-Modified: Wed, 16 Jul 2008 16:08:28 GMT\r\n
+    ETag: "142339-757-4522655c43700"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 1879\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.002218000 seconds]
+    [Request in frame: 5808]
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   5926 309.381982  159.79.22.249         251.215.153.250       HTTP     608    HTTP/1.1 403 Forbidden  (text/html)
+
+Frame 5926: 608 bytes on wire (4864 bits), 608 bytes captured (4864 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60123 (60123), Seq: 1, Ack: 376, Len: 552
+Hypertext Transfer Protocol
+    HTTP/1.1 403 Forbidden\r\n
+    Date: Wed, 17 Mar 2010 22:04:35 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    content-length: 303\r\n
+    proxy-connection: close\r\n
+    x-cache: MISS from bleu.ICSI.Berkeley.EDU\r\n
+    content-type: text/html; charset=iso-8859-1\r\n
+    Connection: close\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.117544000 seconds]
+    [Request in frame: 5924]
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   5936 313.713608  159.79.22.249         251.215.153.250       HTTP     554    HTTP/1.1 400 Bad Request  (text/html)
+
+Frame 5936: 554 bytes on wire (4432 bits), 554 bytes captured (4432 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60410 (60410), Seq: 1, Ack: 362, Len: 498
+Hypertext Transfer Protocol
+    HTTP/1.1 400 Bad Request\r\n
+    Date: Wed, 17 Mar 2010 22:04:40 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    Content-Length: 315\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=iso-8859-1\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.001560000 seconds]
+    [Request in frame: 5934]
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   5948 313.730840  159.79.22.249         251.215.153.250       HTTP     487    HTTP/1.1 200 OK  (text/html)
+
+Frame 5948: 487 bytes on wire (3896 bits), 487 bytes captured (3896 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60412 (60412), Seq: 1721, Ack: 364, Len: 431
+[3 Reassembled TCP Segments (2151 bytes): #5946(272), #5947(1448), #5948(431)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Wed, 17 Mar 2010 22:04:40 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    Last-Modified: Wed, 16 Jul 2008 16:08:28 GMT\r\n
+    ETag: "142339-757-4522655c43700"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 1879\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.002044000 seconds]
+    [Request in frame: 5944]
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   5971 319.860118  159.79.22.249         251.215.153.250       HTTP     604    HTTP/1.1 403 Forbidden  (text/html)
+
+Frame 5971: 604 bytes on wire (4832 bits), 604 bytes captured (4832 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60825 (60825), Seq: 1, Ack: 411, Len: 548
+Hypertext Transfer Protocol
+    HTTP/1.1 403 Forbidden\r\n
+    Date: Wed, 17 Mar 2010 22:04:46 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    content-length: 299\r\n
+    proxy-connection: close\r\n
+    x-cache: MISS from bleu.ICSI.Berkeley.EDU\r\n
+    content-type: text/html; charset=iso-8859-1\r\n
+    Connection: close\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.118738000 seconds]
+    [Request in frame: 5969]
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   5981 320.083606  159.79.22.249         251.215.153.250       HTTP     608    HTTP/1.1 403 Forbidden  (text/html)
+
+Frame 5981: 608 bytes on wire (4864 bits), 608 bytes captured (4864 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60836 (60836), Seq: 1, Ack: 325, Len: 552
+Hypertext Transfer Protocol
+    HTTP/1.1 403 Forbidden\r\n
+    Date: Wed, 17 Mar 2010 22:04:46 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    content-length: 303\r\n
+    proxy-connection: close\r\n
+    x-cache: MISS from bleu.ICSI.Berkeley.EDU\r\n
+    content-type: text/html; charset=iso-8859-1\r\n
+    Connection: close\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.118608000 seconds]
+    [Request in frame: 5979]
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   5991 320.561628  159.79.22.249         251.215.153.250       HTTP     941    HTTP/1.1 200 OK  (text/html)
+
+Frame 5991: 941 bytes on wire (7528 bits), 941 bytes captured (7528 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60887 (60887), Seq: 1, Ack: 387, Len: 885
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Wed, 17 Mar 2010 22:04:47 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    Content-Length: 712\r\n
+    Connection: close\r\n
+    Content-Type: text/html;charset=ISO-8859-1\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.004167000 seconds]
+    [Request in frame: 5989]
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   6001 320.567001  159.79.22.249         251.215.153.250       HTTP     1042   HTTP/1.1 200 OK  (text/html)
+
+Frame 6001: 1042 bytes on wire (8336 bits), 1042 bytes captured (8336 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60888 (60888), Seq: 1, Ack: 377, Len: 986
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Wed, 17 Mar 2010 22:04:47 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    Content-Length: 813\r\n
+    Connection: close\r\n
+    Content-Type: text/html;charset=ISO-8859-1\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.002498000 seconds]
+    [Request in frame: 5999]
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   6011 320.758133  159.79.22.249         251.215.153.250       HTTP     605    HTTP/1.1 403 Forbidden  (text/html)
+
+Frame 6011: 605 bytes on wire (4840 bits), 605 bytes captured (4840 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60892 (60892), Seq: 1, Ack: 354, Len: 549
+Hypertext Transfer Protocol
+    HTTP/1.1 403 Forbidden\r\n
+    Date: Wed, 17 Mar 2010 22:04:47 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    content-length: 300\r\n
+    proxy-connection: close\r\n
+    x-cache: MISS from bleu.ICSI.Berkeley.EDU\r\n
+    content-type: text/html; charset=iso-8859-1\r\n
+    Connection: close\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.106596000 seconds]
+    [Request in frame: 6009]
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   6023 320.805021  159.79.22.249         251.215.153.250       HTTP     487    HTTP/1.1 200 OK  (text/html)
+
+Frame 6023: 487 bytes on wire (3896 bits), 487 bytes captured (3896 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60907 (60907), Seq: 1721, Ack: 373, Len: 431
+[3 Reassembled TCP Segments (2151 bytes): #6021(272), #6022(1448), #6023(431)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Wed, 17 Mar 2010 22:04:47 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    Last-Modified: Wed, 16 Jul 2008 16:08:28 GMT\r\n
+    ETag: "142339-757-4522655c43700"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 1879\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.002131000 seconds]
+    [Request in frame: 6019]
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   6034 321.100743  159.79.22.249         251.215.153.250       HTTP     716    HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 6034: 716 bytes on wire (5728 bits), 716 bytes captured (5728 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60926 (60926), Seq: 1, Ack: 364, Len: 660
+Hypertext Transfer Protocol
+    HTTP/1.1 301 Moved Permanently\r\n
+    Date: Wed, 17 Mar 2010 22:04:47 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    Location: http://bleu.icsi.berkeley.edu/pub/bootstrap/?username="<script>foo</script\r\n
+    Content-Length: 385\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=iso-8859-1\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.004745000 seconds]
+    [Request in frame: 6032]
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   6044 321.106851  159.79.22.249         251.215.153.250       HTTP     696    HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 6044: 696 bytes on wire (5568 bits), 696 bytes captured (5568 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60929 (60929), Seq: 1, Ack: 354, Len: 640
+Hypertext Transfer Protocol
+    HTTP/1.1 301 Moved Permanently\r\n
+    Date: Wed, 17 Mar 2010 22:04:47 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    Location: http://bleu.icsi.berkeley.edu/pub/?username="<script>foo</script\r\n
+    Content-Length: 375\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=iso-8859-1\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.002786000 seconds]
+    [Request in frame: 6042]
+Line-based text data: text/html
+
+No.     Time        Source                Destination           Protocol Length Info
+   6056 321.356346  159.79.22.249         251.215.153.250       HTTP     487    HTTP/1.1 200 OK  (text/html)
+
+Frame 6056: 487 bytes on wire (3896 bits), 487 bytes captured (3896 bits)
+Null/Loopback
+Internet Protocol Version 4, Src: 159.79.22.249 (159.79.22.249), Dst: 251.215.153.250 (251.215.153.250)
+Transmission Control Protocol, Src Port: 80 (80), Dst Port: 60944 (60944), Seq: 1721, Ack: 350, Len: 431
+[3 Reassembled TCP Segments (2151 bytes): #6054(272), #6055(1448), #6056(431)]
+Hypertext Transfer Protocol
+    HTTP/1.1 200 OK\r\n
+    Date: Wed, 17 Mar 2010 22:04:48 GMT\r\n
+    Server: Apache/2.0.52 (Red Hat)\r\n
+    Last-Modified: Wed, 16 Jul 2008 16:08:28 GMT\r\n
+    ETag: "142339-757-4522655c43700"\r\n
+    Accept-Ranges: bytes\r\n
+    Content-Length: 1879\r\n
+    Connection: close\r\n
+    Content-Type: text/html; charset=UTF-8\r\n
+    \r\n
+    [HTTP response 1/1]
+    [Time since request: 0.003448000 seconds]
+    [Request in frame: 6052]
+Line-based text data: text/html
