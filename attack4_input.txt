@@ -1,0 +1,8 @@
+(r)ead,[offset] or (w)rite,[offset],[value], (s)ave/quit or (q)uit:
+w,-17,183
+(r)ead,[offset] or (w)rite,[offset],[value], (s)ave/quit or (q)uit:
+w,-18,235
+(r)ead,[offset] or (w)rite,[offset],[value], (s)ave/quit or (q)uit:
+w,-19,183
+(r)ead,[offset] or (w)rite,[offset],[value], (s)ave/quit or (q)uit:
+w,-20,160
